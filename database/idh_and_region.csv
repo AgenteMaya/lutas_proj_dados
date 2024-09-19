@@ -1,0 +1,2776 @@
+Entity,Code,Year,Human Development Index,Region
+Afghanistan,AFG,1997,0.33,Asia
+Afghanistan,AFG,1998,0.329,Asia
+Afghanistan,AFG,1999,0.337,Asia
+Afghanistan,AFG,2000,0.34,Asia
+Afghanistan,AFG,2001,0.344,Asia
+Afghanistan,AFG,2002,0.368,Asia
+Afghanistan,AFG,2003,0.379,Asia
+Afghanistan,AFG,2004,0.395,Asia
+Afghanistan,AFG,2005,0.402,Asia
+Afghanistan,AFG,2006,0.41,Asia
+Afghanistan,AFG,2007,0.426,Asia
+Afghanistan,AFG,2008,0.431,Asia
+Afghanistan,AFG,2009,0.441,Asia
+Afghanistan,AFG,2010,0.449,Asia
+Afghanistan,AFG,2011,0.457,Asia
+Afghanistan,AFG,2012,0.467,Asia
+Afghanistan,AFG,2013,0.475,Asia
+Afghanistan,AFG,2014,0.48,Asia
+Afghanistan,AFG,2015,0.479,Asia
+Afghanistan,AFG,2016,0.483,Asia
+Afghanistan,AFG,2017,0.485,Asia
+Afghanistan,AFG,2018,0.486,Asia
+Afghanistan,AFG,2019,0.492,Asia
+Afghanistan,AFG,2020,0.488,Asia
+Afghanistan,AFG,2021,0.473,Asia
+Afghanistan,AFG,2022,0.462,Asia
+Albania,ALB,1997,0.641,Europe
+Albania,ALB,1998,0.656,Europe
+Albania,ALB,1999,0.668,Europe
+Albania,ALB,2000,0.678,Europe
+Albania,ALB,2001,0.687,Europe
+Albania,ALB,2002,0.692,Europe
+Albania,ALB,2003,0.701,Europe
+Albania,ALB,2004,0.707,Europe
+Albania,ALB,2005,0.72,Europe
+Albania,ALB,2006,0.728,Europe
+Albania,ALB,2007,0.74,Europe
+Albania,ALB,2008,0.747,Europe
+Albania,ALB,2009,0.752,Europe
+Albania,ALB,2010,0.766,Europe
+Albania,ALB,2011,0.779,Europe
+Albania,ALB,2012,0.789,Europe
+Albania,ALB,2013,0.793,Europe
+Albania,ALB,2014,0.797,Europe
+Albania,ALB,2015,0.797,Europe
+Albania,ALB,2016,0.795,Europe
+Albania,ALB,2017,0.796,Europe
+Albania,ALB,2018,0.797,Europe
+Albania,ALB,2019,0.8,Europe
+Albania,ALB,2020,0.784,Europe
+Albania,ALB,2021,0.785,Europe
+Albania,ALB,2022,0.789,Europe
+Angola,AGO,1999,0.369,
+Angola,AGO,2000,0.38,
+Angola,AGO,2001,0.39,
+Angola,AGO,2002,0.406,
+Angola,AGO,2003,0.424,
+Angola,AGO,2004,0.437,
+Angola,AGO,2005,0.451,
+Angola,AGO,2006,0.463,
+Angola,AGO,2007,0.48,
+Angola,AGO,2008,0.492,
+Angola,AGO,2009,0.506,
+Angola,AGO,2010,0.516,
+Angola,AGO,2011,0.533,
+Angola,AGO,2012,0.545,
+Angola,AGO,2013,0.555,
+Angola,AGO,2014,0.565,
+Angola,AGO,2015,0.591,
+Angola,AGO,2016,0.595,
+Angola,AGO,2017,0.597,
+Angola,AGO,2018,0.598,
+Angola,AGO,2019,0.597,
+Angola,AGO,2020,0.594,
+Angola,AGO,2021,0.59,
+Angola,AGO,2022,0.591,
+Argentina,ARG,1997,0.758,South America
+Argentina,ARG,1998,0.764,South America
+Argentina,ARG,1999,0.774,South America
+Argentina,ARG,2000,0.78,South America
+Argentina,ARG,2001,0.785,South America
+Argentina,ARG,2002,0.785,South America
+Argentina,ARG,2003,0.793,South America
+Argentina,ARG,2004,0.798,South America
+Argentina,ARG,2005,0.802,South America
+Argentina,ARG,2006,0.814,South America
+Argentina,ARG,2007,0.817,South America
+Argentina,ARG,2008,0.825,South America
+Argentina,ARG,2009,0.827,South America
+Argentina,ARG,2010,0.834,South America
+Argentina,ARG,2011,0.842,South America
+Argentina,ARG,2012,0.844,South America
+Argentina,ARG,2013,0.846,South America
+Argentina,ARG,2014,0.847,South America
+Argentina,ARG,2015,0.85,South America
+Argentina,ARG,2016,0.848,South America
+Argentina,ARG,2017,0.853,South America
+Argentina,ARG,2018,0.852,South America
+Argentina,ARG,2019,0.853,South America
+Argentina,ARG,2020,0.841,South America
+Argentina,ARG,2021,0.844,South America
+Argentina,ARG,2022,0.849,South America
+Armenia,ARM,1997,0.635,Asia
+Armenia,ARM,1998,0.647,Asia
+Armenia,ARM,1999,0.651,Asia
+Armenia,ARM,2000,0.656,Asia
+Armenia,ARM,2001,0.661,Asia
+Armenia,ARM,2002,0.67,Asia
+Armenia,ARM,2003,0.681,Asia
+Armenia,ARM,2004,0.689,Asia
+Armenia,ARM,2005,0.701,Asia
+Armenia,ARM,2006,0.714,Asia
+Armenia,ARM,2007,0.73,Asia
+Armenia,ARM,2008,0.733,Asia
+Armenia,ARM,2009,0.732,Asia
+Armenia,ARM,2010,0.739,Asia
+Armenia,ARM,2011,0.743,Asia
+Armenia,ARM,2012,0.751,Asia
+Armenia,ARM,2013,0.757,Asia
+Armenia,ARM,2014,0.764,Asia
+Armenia,ARM,2015,0.769,Asia
+Armenia,ARM,2016,0.773,Asia
+Armenia,ARM,2017,0.775,Asia
+Armenia,ARM,2018,0.781,Asia
+Armenia,ARM,2019,0.789,Asia
+Armenia,ARM,2020,0.769,Asia
+Armenia,ARM,2021,0.774,Asia
+Armenia,ARM,2022,0.786,Asia
+Australia,AUS,1997,0.887,Oceania
+Australia,AUS,1998,0.891,Oceania
+Australia,AUS,1999,0.894,Oceania
+Australia,AUS,2000,0.896,Oceania
+Australia,AUS,2001,0.9,Oceania
+Australia,AUS,2002,0.902,Oceania
+Australia,AUS,2003,0.906,Oceania
+Australia,AUS,2004,0.908,Oceania
+Australia,AUS,2005,0.911,Oceania
+Australia,AUS,2006,0.914,Oceania
+Australia,AUS,2007,0.916,Oceania
+Australia,AUS,2008,0.92,Oceania
+Australia,AUS,2009,0.922,Oceania
+Australia,AUS,2010,0.924,Oceania
+Australia,AUS,2011,0.927,Oceania
+Australia,AUS,2012,0.931,Oceania
+Australia,AUS,2013,0.929,Oceania
+Australia,AUS,2014,0.931,Oceania
+Australia,AUS,2015,0.933,Oceania
+Australia,AUS,2016,0.936,Oceania
+Australia,AUS,2017,0.937,Oceania
+Australia,AUS,2018,0.941,Oceania
+Australia,AUS,2019,0.941,Oceania
+Australia,AUS,2020,0.948,Oceania
+Australia,AUS,2021,0.949,Oceania
+Australia,AUS,2022,0.946,Oceania
+Austria,AUT,1997,0.856,Europe
+Austria,AUT,1998,0.861,Europe
+Austria,AUT,1999,0.865,Europe
+Austria,AUT,2000,0.87,Europe
+Austria,AUT,2001,0.874,Europe
+Austria,AUT,2002,0.878,Europe
+Austria,AUT,2003,0.88,Europe
+Austria,AUT,2004,0.886,Europe
+Austria,AUT,2005,0.889,Europe
+Austria,AUT,2006,0.893,Europe
+Austria,AUT,2007,0.896,Europe
+Austria,AUT,2008,0.899,Europe
+Austria,AUT,2009,0.898,Europe
+Austria,AUT,2010,0.903,Europe
+Austria,AUT,2011,0.907,Europe
+Austria,AUT,2012,0.909,Europe
+Austria,AUT,2013,0.907,Europe
+Austria,AUT,2014,0.911,Europe
+Austria,AUT,2015,0.91,Europe
+Austria,AUT,2016,0.913,Europe
+Austria,AUT,2017,0.914,Europe
+Austria,AUT,2018,0.917,Europe
+Austria,AUT,2019,0.92,Europe
+Austria,AUT,2020,0.916,Europe
+Austria,AUT,2021,0.92,Europe
+Austria,AUT,2022,0.926,Europe
+Azerbaijan,AZE,1997,0.609,Asia
+Azerbaijan,AZE,1998,0.618,Asia
+Azerbaijan,AZE,1999,0.628,Asia
+Azerbaijan,AZE,2000,0.635,Asia
+Azerbaijan,AZE,2001,0.644,Asia
+Azerbaijan,AZE,2002,0.654,Asia
+Azerbaijan,AZE,2003,0.663,Asia
+Azerbaijan,AZE,2004,0.67,Asia
+Azerbaijan,AZE,2005,0.682,Asia
+Azerbaijan,AZE,2006,0.701,Asia
+Azerbaijan,AZE,2007,0.714,Asia
+Azerbaijan,AZE,2008,0.723,Asia
+Azerbaijan,AZE,2009,0.729,Asia
+Azerbaijan,AZE,2010,0.733,Asia
+Azerbaijan,AZE,2011,0.735,Asia
+Azerbaijan,AZE,2012,0.739,Asia
+Azerbaijan,AZE,2013,0.745,Asia
+Azerbaijan,AZE,2014,0.749,Asia
+Azerbaijan,AZE,2015,0.751,Asia
+Azerbaijan,AZE,2016,0.752,Asia
+Azerbaijan,AZE,2017,0.754,Asia
+Azerbaijan,AZE,2018,0.757,Asia
+Azerbaijan,AZE,2019,0.762,Asia
+Azerbaijan,AZE,2020,0.722,Asia
+Azerbaijan,AZE,2021,0.738,Asia
+Azerbaijan,AZE,2022,0.76,Asia
+Bangladesh,BGD,1997,0.458,Asia
+Bangladesh,BGD,1998,0.473,Asia
+Bangladesh,BGD,1999,0.487,Asia
+Bangladesh,BGD,2000,0.491,Asia
+Bangladesh,BGD,2001,0.498,Asia
+Bangladesh,BGD,2002,0.505,Asia
+Bangladesh,BGD,2003,0.511,Asia
+Bangladesh,BGD,2004,0.518,Asia
+Bangladesh,BGD,2005,0.525,Asia
+Bangladesh,BGD,2006,0.53,Asia
+Bangladesh,BGD,2007,0.533,Asia
+Bangladesh,BGD,2008,0.535,Asia
+Bangladesh,BGD,2009,0.547,Asia
+Bangladesh,BGD,2010,0.558,Asia
+Bangladesh,BGD,2011,0.565,Asia
+Bangladesh,BGD,2012,0.575,Asia
+Bangladesh,BGD,2013,0.577,Asia
+Bangladesh,BGD,2014,0.585,Asia
+Bangladesh,BGD,2015,0.604,Asia
+Bangladesh,BGD,2016,0.613,Asia
+Bangladesh,BGD,2017,0.622,Asia
+Bangladesh,BGD,2018,0.636,Asia
+Bangladesh,BGD,2019,0.646,Asia
+Bangladesh,BGD,2020,0.657,Asia
+Bangladesh,BGD,2021,0.662,Asia
+Bangladesh,BGD,2022,0.67,Asia
+Belarus,BLR,1997,0.687,Europe
+Belarus,BLR,1998,0.693,Europe
+Belarus,BLR,1999,0.698,Europe
+Belarus,BLR,2000,0.708,Europe
+Belarus,BLR,2001,0.713,Europe
+Belarus,BLR,2002,0.718,Europe
+Belarus,BLR,2003,0.728,Europe
+Belarus,BLR,2004,0.74,Europe
+Belarus,BLR,2005,0.749,Europe
+Belarus,BLR,2006,0.761,Europe
+Belarus,BLR,2007,0.772,Europe
+Belarus,BLR,2008,0.782,Europe
+Belarus,BLR,2009,0.784,Europe
+Belarus,BLR,2010,0.79,Europe
+Belarus,BLR,2011,0.798,Europe
+Belarus,BLR,2012,0.805,Europe
+Belarus,BLR,2013,0.806,Europe
+Belarus,BLR,2014,0.81,Europe
+Belarus,BLR,2015,0.809,Europe
+Belarus,BLR,2016,0.809,Europe
+Belarus,BLR,2017,0.811,Europe
+Belarus,BLR,2018,0.812,Europe
+Belarus,BLR,2019,0.81,Europe
+Belarus,BLR,2020,0.8,Europe
+Belarus,BLR,2021,0.801,Europe
+Belarus,BLR,2022,0.801,Europe
+Belgium,BEL,1997,0.874,Europe
+Belgium,BEL,1998,0.876,Europe
+Belgium,BEL,1999,0.879,Europe
+Belgium,BEL,2000,0.884,Europe
+Belgium,BEL,2001,0.889,Europe
+Belgium,BEL,2002,0.891,Europe
+Belgium,BEL,2003,0.893,Europe
+Belgium,BEL,2004,0.899,Europe
+Belgium,BEL,2005,0.901,Europe
+Belgium,BEL,2006,0.904,Europe
+Belgium,BEL,2007,0.907,Europe
+Belgium,BEL,2008,0.909,Europe
+Belgium,BEL,2009,0.91,Europe
+Belgium,BEL,2010,0.913,Europe
+Belgium,BEL,2011,0.914,Europe
+Belgium,BEL,2012,0.915,Europe
+Belgium,BEL,2013,0.917,Europe
+Belgium,BEL,2014,0.922,Europe
+Belgium,BEL,2015,0.924,Europe
+Belgium,BEL,2016,0.927,Europe
+Belgium,BEL,2017,0.931,Europe
+Belgium,BEL,2018,0.933,Europe
+Belgium,BEL,2019,0.936,Europe
+Belgium,BEL,2020,0.93,Europe
+Belgium,BEL,2021,0.938,Europe
+Belgium,BEL,2022,0.942,Europe
+Bolivia,BOL,1997,0.615,South America
+Bolivia,BOL,1998,0.626,South America
+Bolivia,BOL,1999,0.625,South America
+Bolivia,BOL,2000,0.625,South America
+Bolivia,BOL,2001,0.625,South America
+Bolivia,BOL,2002,0.622,South America
+Bolivia,BOL,2003,0.619,South America
+Bolivia,BOL,2004,0.626,South America
+Bolivia,BOL,2005,0.634,South America
+Bolivia,BOL,2006,0.637,South America
+Bolivia,BOL,2007,0.644,South America
+Bolivia,BOL,2008,0.651,South America
+Bolivia,BOL,2009,0.657,South America
+Bolivia,BOL,2010,0.661,South America
+Bolivia,BOL,2011,0.667,South America
+Bolivia,BOL,2012,0.673,South America
+Bolivia,BOL,2013,0.681,South America
+Bolivia,BOL,2014,0.683,South America
+Bolivia,BOL,2015,0.688,South America
+Bolivia,BOL,2016,0.7,South America
+Bolivia,BOL,2017,0.707,South America
+Bolivia,BOL,2018,0.712,South America
+Bolivia,BOL,2019,0.715,South America
+Bolivia,BOL,2020,0.691,South America
+Bolivia,BOL,2021,0.691,South America
+Bolivia,BOL,2022,0.698,South America
+Bosnia and Herzegovina,BIH,2000,0.656,Europe
+Bosnia and Herzegovina,BIH,2001,0.661,Europe
+Bosnia and Herzegovina,BIH,2002,0.663,Europe
+Bosnia and Herzegovina,BIH,2003,0.671,Europe
+Bosnia and Herzegovina,BIH,2004,0.678,Europe
+Bosnia and Herzegovina,BIH,2005,0.679,Europe
+Bosnia and Herzegovina,BIH,2006,0.687,Europe
+Bosnia and Herzegovina,BIH,2007,0.702,Europe
+Bosnia and Herzegovina,BIH,2008,0.714,Europe
+Bosnia and Herzegovina,BIH,2009,0.716,Europe
+Bosnia and Herzegovina,BIH,2010,0.718,Europe
+Bosnia and Herzegovina,BIH,2011,0.723,Europe
+Bosnia and Herzegovina,BIH,2012,0.735,Europe
+Bosnia and Herzegovina,BIH,2013,0.745,Europe
+Bosnia and Herzegovina,BIH,2014,0.751,Europe
+Bosnia and Herzegovina,BIH,2015,0.757,Europe
+Bosnia and Herzegovina,BIH,2016,0.767,Europe
+Bosnia and Herzegovina,BIH,2017,0.77,Europe
+Bosnia and Herzegovina,BIH,2018,0.774,Europe
+Bosnia and Herzegovina,BIH,2019,0.78,Europe
+Bosnia and Herzegovina,BIH,2020,0.776,Europe
+Bosnia and Herzegovina,BIH,2021,0.776,Europe
+Bosnia and Herzegovina,BIH,2022,0.779,Europe
+Brazil,BRA,1997,0.656,South America
+Brazil,BRA,1998,0.66,South America
+Brazil,BRA,1999,0.663,South America
+Brazil,BRA,2000,0.668,South America
+Brazil,BRA,2001,0.673,South America
+Brazil,BRA,2002,0.678,South America
+Brazil,BRA,2003,0.682,South America
+Brazil,BRA,2004,0.689,South America
+Brazil,BRA,2005,0.696,South America
+Brazil,BRA,2006,0.701,South America
+Brazil,BRA,2007,0.708,South America
+Brazil,BRA,2008,0.714,South America
+Brazil,BRA,2009,0.717,South America
+Brazil,BRA,2010,0.722,South America
+Brazil,BRA,2011,0.727,South America
+Brazil,BRA,2012,0.732,South America
+Brazil,BRA,2013,0.75,South America
+Brazil,BRA,2014,0.753,South America
+Brazil,BRA,2015,0.752,South America
+Brazil,BRA,2016,0.753,South America
+Brazil,BRA,2017,0.758,South America
+Brazil,BRA,2018,0.762,South America
+Brazil,BRA,2019,0.764,South America
+Brazil,BRA,2020,0.758,South America
+Brazil,BRA,2021,0.756,South America
+Brazil,BRA,2022,0.76,South America
+Brunei,BRN,1997,0.782,
+Brunei,BRN,1998,0.782,
+Brunei,BRN,1999,0.787,
+Brunei,BRN,2000,0.789,
+Brunei,BRN,2001,0.792,
+Brunei,BRN,2002,0.796,
+Brunei,BRN,2003,0.802,
+Brunei,BRN,2004,0.807,
+Brunei,BRN,2005,0.811,
+Brunei,BRN,2006,0.817,
+Brunei,BRN,2007,0.82,
+Brunei,BRN,2008,0.821,
+Brunei,BRN,2009,0.823,
+Brunei,BRN,2010,0.825,
+Brunei,BRN,2011,0.829,
+Brunei,BRN,2012,0.836,
+Brunei,BRN,2013,0.835,
+Brunei,BRN,2014,0.834,
+Brunei,BRN,2015,0.832,
+Brunei,BRN,2016,0.83,
+Brunei,BRN,2017,0.829,
+Brunei,BRN,2018,0.826,
+Brunei,BRN,2019,0.827,
+Brunei,BRN,2020,0.827,
+Brunei,BRN,2021,0.824,
+Brunei,BRN,2022,0.823,
+Bulgaria,BGR,1997,0.704,Europe
+Bulgaria,BGR,1998,0.714,Europe
+Bulgaria,BGR,1999,0.718,Europe
+Bulgaria,BGR,2000,0.723,Europe
+Bulgaria,BGR,2001,0.732,Europe
+Bulgaria,BGR,2002,0.743,Europe
+Bulgaria,BGR,2003,0.753,Europe
+Bulgaria,BGR,2004,0.76,Europe
+Bulgaria,BGR,2005,0.765,Europe
+Bulgaria,BGR,2006,0.77,Europe
+Bulgaria,BGR,2007,0.776,Europe
+Bulgaria,BGR,2008,0.782,Europe
+Bulgaria,BGR,2009,0.784,Europe
+Bulgaria,BGR,2010,0.79,Europe
+Bulgaria,BGR,2011,0.794,Europe
+Bulgaria,BGR,2012,0.798,Europe
+Bulgaria,BGR,2013,0.804,Europe
+Bulgaria,BGR,2014,0.807,Europe
+Bulgaria,BGR,2015,0.809,Europe
+Bulgaria,BGR,2016,0.81,Europe
+Bulgaria,BGR,2017,0.81,Europe
+Bulgaria,BGR,2018,0.811,Europe
+Bulgaria,BGR,2019,0.813,Europe
+Bulgaria,BGR,2020,0.802,Europe
+Bulgaria,BGR,2021,0.796,Europe
+Bulgaria,BGR,2022,0.799,Europe
+Cambodia,KHM,1997,0.408,Asia
+Cambodia,KHM,1998,0.412,Asia
+Cambodia,KHM,1999,0.421,Asia
+Cambodia,KHM,2000,0.431,Asia
+Cambodia,KHM,2001,0.447,Asia
+Cambodia,KHM,2002,0.469,Asia
+Cambodia,KHM,2003,0.484,Asia
+Cambodia,KHM,2004,0.499,Asia
+Cambodia,KHM,2005,0.51,Asia
+Cambodia,KHM,2006,0.522,Asia
+Cambodia,KHM,2007,0.531,Asia
+Cambodia,KHM,2008,0.536,Asia
+Cambodia,KHM,2009,0.538,Asia
+Cambodia,KHM,2010,0.542,Asia
+Cambodia,KHM,2011,0.546,Asia
+Cambodia,KHM,2012,0.551,Asia
+Cambodia,KHM,2013,0.554,Asia
+Cambodia,KHM,2014,0.559,Asia
+Cambodia,KHM,2015,0.564,Asia
+Cambodia,KHM,2016,0.573,Asia
+Cambodia,KHM,2017,0.581,Asia
+Cambodia,KHM,2018,0.588,Asia
+Cambodia,KHM,2019,0.596,Asia
+Cambodia,KHM,2020,0.596,Asia
+Cambodia,KHM,2021,0.596,Asia
+Cambodia,KHM,2022,0.6,Asia
+Cameroon,CMR,1997,0.42,Africa
+Cameroon,CMR,1998,0.42,Africa
+Cameroon,CMR,1999,0.421,Africa
+Cameroon,CMR,2000,0.426,Africa
+Cameroon,CMR,2001,0.445,Africa
+Cameroon,CMR,2002,0.445,Africa
+Cameroon,CMR,2003,0.452,Africa
+Cameroon,CMR,2004,0.458,Africa
+Cameroon,CMR,2005,0.459,Africa
+Cameroon,CMR,2006,0.46,Africa
+Cameroon,CMR,2007,0.472,Africa
+Cameroon,CMR,2008,0.487,Africa
+Cameroon,CMR,2009,0.502,Africa
+Cameroon,CMR,2010,0.515,Africa
+Cameroon,CMR,2011,0.524,Africa
+Cameroon,CMR,2012,0.535,Africa
+Cameroon,CMR,2013,0.544,Africa
+Cameroon,CMR,2014,0.553,Africa
+Cameroon,CMR,2015,0.562,Africa
+Cameroon,CMR,2016,0.566,Africa
+Cameroon,CMR,2017,0.574,Africa
+Cameroon,CMR,2018,0.581,Africa
+Cameroon,CMR,2019,0.586,Africa
+Cameroon,CMR,2020,0.585,Africa
+Cameroon,CMR,2021,0.581,Africa
+Cameroon,CMR,2022,0.587,Africa
+Canada,CAN,1997,0.88,North America
+Canada,CAN,1998,0.88,North America
+Canada,CAN,1999,0.884,North America
+Canada,CAN,2000,0.89,North America
+Canada,CAN,2001,0.893,North America
+Canada,CAN,2002,0.895,North America
+Canada,CAN,2003,0.897,North America
+Canada,CAN,2004,0.901,North America
+Canada,CAN,2005,0.903,North America
+Canada,CAN,2006,0.907,North America
+Canada,CAN,2007,0.907,North America
+Canada,CAN,2008,0.909,North America
+Canada,CAN,2009,0.91,North America
+Canada,CAN,2010,0.911,North America
+Canada,CAN,2011,0.914,North America
+Canada,CAN,2012,0.921,North America
+Canada,CAN,2013,0.923,North America
+Canada,CAN,2014,0.925,North America
+Canada,CAN,2015,0.927,North America
+Canada,CAN,2016,0.928,North America
+Canada,CAN,2017,0.929,North America
+Canada,CAN,2018,0.93,North America
+Canada,CAN,2019,0.932,North America
+Canada,CAN,2020,0.928,North America
+Canada,CAN,2021,0.934,North America
+Canada,CAN,2022,0.935,North America
+Cape Verde,CPV,2000,0.59,
+Cape Verde,CPV,2001,0.598,
+Cape Verde,CPV,2002,0.606,
+Cape Verde,CPV,2003,0.612,
+Cape Verde,CPV,2004,0.615,
+Cape Verde,CPV,2005,0.622,
+Cape Verde,CPV,2006,0.633,
+Cape Verde,CPV,2007,0.639,
+Cape Verde,CPV,2008,0.643,
+Cape Verde,CPV,2009,0.645,
+Cape Verde,CPV,2010,0.649,
+Cape Verde,CPV,2011,0.657,
+Cape Verde,CPV,2012,0.657,
+Cape Verde,CPV,2013,0.664,
+Cape Verde,CPV,2014,0.663,
+Cape Verde,CPV,2015,0.658,
+Cape Verde,CPV,2016,0.664,
+Cape Verde,CPV,2017,0.668,
+Cape Verde,CPV,2018,0.664,
+Cape Verde,CPV,2019,0.667,
+Cape Verde,CPV,2020,0.649,
+Cape Verde,CPV,2021,0.65,
+Cape Verde,CPV,2022,0.661,
+Chile,CHL,1997,0.744,South America
+Chile,CHL,1998,0.749,South America
+Chile,CHL,1999,0.756,South America
+Chile,CHL,2000,0.763,South America
+Chile,CHL,2001,0.767,South America
+Chile,CHL,2002,0.775,South America
+Chile,CHL,2003,0.78,South America
+Chile,CHL,2004,0.787,South America
+Chile,CHL,2005,0.795,South America
+Chile,CHL,2006,0.796,South America
+Chile,CHL,2007,0.801,South America
+Chile,CHL,2008,0.812,South America
+Chile,CHL,2009,0.811,South America
+Chile,CHL,2010,0.813,South America
+Chile,CHL,2011,0.816,South America
+Chile,CHL,2012,0.824,South America
+Chile,CHL,2013,0.837,South America
+Chile,CHL,2014,0.841,South America
+Chile,CHL,2015,0.846,South America
+Chile,CHL,2016,0.851,South America
+Chile,CHL,2017,0.854,South America
+Chile,CHL,2018,0.856,South America
+Chile,CHL,2019,0.859,South America
+Chile,CHL,2020,0.849,South America
+Chile,CHL,2021,0.856,South America
+Chile,CHL,2022,0.86,South America
+China,CHN,1997,0.554,Asia
+China,CHN,1998,0.565,Asia
+China,CHN,1999,0.575,Asia
+China,CHN,2000,0.586,Asia
+China,CHN,2001,0.597,Asia
+China,CHN,2002,0.608,Asia
+China,CHN,2003,0.619,Asia
+China,CHN,2004,0.631,Asia
+China,CHN,2005,0.643,Asia
+China,CHN,2006,0.656,Asia
+China,CHN,2007,0.668,Asia
+China,CHN,2008,0.678,Asia
+China,CHN,2009,0.689,Asia
+China,CHN,2010,0.698,Asia
+China,CHN,2011,0.706,Asia
+China,CHN,2012,0.715,Asia
+China,CHN,2013,0.723,Asia
+China,CHN,2014,0.732,Asia
+China,CHN,2015,0.741,Asia
+China,CHN,2016,0.749,Asia
+China,CHN,2017,0.757,Asia
+China,CHN,2018,0.766,Asia
+China,CHN,2019,0.775,Asia
+China,CHN,2020,0.781,Asia
+China,CHN,2021,0.785,Asia
+China,CHN,2022,0.788,Asia
+Colombia,COL,1997,0.661,South America
+Colombia,COL,1998,0.666,South America
+Colombia,COL,1999,0.665,South America
+Colombia,COL,2000,0.672,South America
+Colombia,COL,2001,0.674,South America
+Colombia,COL,2002,0.676,South America
+Colombia,COL,2003,0.683,South America
+Colombia,COL,2004,0.689,South America
+Colombia,COL,2005,0.701,South America
+Colombia,COL,2006,0.703,South America
+Colombia,COL,2007,0.715,South America
+Colombia,COL,2008,0.722,South America
+Colombia,COL,2009,0.728,South America
+Colombia,COL,2010,0.732,South America
+Colombia,COL,2011,0.738,South America
+Colombia,COL,2012,0.739,South America
+Colombia,COL,2013,0.75,South America
+Colombia,COL,2014,0.755,South America
+Colombia,COL,2015,0.758,South America
+Colombia,COL,2016,0.763,South America
+Colombia,COL,2017,0.765,South America
+Colombia,COL,2018,0.766,South America
+Colombia,COL,2019,0.768,South America
+Colombia,COL,2020,0.756,South America
+Colombia,COL,2021,0.752,South America
+Colombia,COL,2022,0.758,South America
+Congo,COG,1997,0.483,
+Congo,COG,1998,0.508,
+Congo,COG,1999,0.509,
+Congo,COG,2000,0.509,
+Congo,COG,2001,0.515,
+Congo,COG,2002,0.518,
+Congo,COG,2003,0.52,
+Congo,COG,2004,0.525,
+Congo,COG,2005,0.539,
+Congo,COG,2006,0.552,
+Congo,COG,2007,0.553,
+Congo,COG,2008,0.561,
+Congo,COG,2009,0.574,
+Congo,COG,2010,0.581,
+Congo,COG,2011,0.584,
+Congo,COG,2012,0.595,
+Congo,COG,2013,0.6,
+Congo,COG,2014,0.609,
+Congo,COG,2015,0.61,
+Congo,COG,2016,0.606,
+Congo,COG,2017,0.6,
+Congo,COG,2018,0.603,
+Congo,COG,2019,0.596,
+Congo,COG,2020,0.598,
+Congo,COG,2021,0.598,
+Congo,COG,2022,0.593,
+Costa Rica,CRI,1997,0.699,North America
+Costa Rica,CRI,1998,0.705,North America
+Costa Rica,CRI,1999,0.707,North America
+Costa Rica,CRI,2000,0.709,North America
+Costa Rica,CRI,2001,0.714,North America
+Costa Rica,CRI,2002,0.721,North America
+Costa Rica,CRI,2003,0.726,North America
+Costa Rica,CRI,2004,0.731,North America
+Costa Rica,CRI,2005,0.739,North America
+Costa Rica,CRI,2006,0.745,North America
+Costa Rica,CRI,2007,0.754,North America
+Costa Rica,CRI,2008,0.762,North America
+Costa Rica,CRI,2009,0.765,North America
+Costa Rica,CRI,2010,0.769,North America
+Costa Rica,CRI,2011,0.778,North America
+Costa Rica,CRI,2012,0.782,North America
+Costa Rica,CRI,2013,0.787,North America
+Costa Rica,CRI,2014,0.79,North America
+Costa Rica,CRI,2015,0.792,North America
+Costa Rica,CRI,2016,0.796,North America
+Costa Rica,CRI,2017,0.8,North America
+Costa Rica,CRI,2018,0.804,North America
+Costa Rica,CRI,2019,0.811,North America
+Costa Rica,CRI,2020,0.811,North America
+Costa Rica,CRI,2021,0.804,North America
+Costa Rica,CRI,2022,0.806,North America
+Cote d'Ivoire,CIV,1997,0.454,
+Cote d'Ivoire,CIV,1998,0.459,
+Cote d'Ivoire,CIV,1999,0.456,
+Cote d'Ivoire,CIV,2000,0.454,
+Cote d'Ivoire,CIV,2001,0.453,
+Cote d'Ivoire,CIV,2002,0.451,
+Cote d'Ivoire,CIV,2003,0.45,
+Cote d'Ivoire,CIV,2004,0.451,
+Cote d'Ivoire,CIV,2005,0.453,
+Cote d'Ivoire,CIV,2006,0.455,
+Cote d'Ivoire,CIV,2007,0.458,
+Cote d'Ivoire,CIV,2008,0.461,
+Cote d'Ivoire,CIV,2009,0.465,
+Cote d'Ivoire,CIV,2010,0.47,
+Cote d'Ivoire,CIV,2011,0.468,
+Cote d'Ivoire,CIV,2012,0.474,
+Cote d'Ivoire,CIV,2013,0.48,
+Cote d'Ivoire,CIV,2014,0.499,
+Cote d'Ivoire,CIV,2015,0.501,
+Cote d'Ivoire,CIV,2016,0.506,
+Cote d'Ivoire,CIV,2017,0.515,
+Cote d'Ivoire,CIV,2018,0.522,
+Cote d'Ivoire,CIV,2019,0.529,
+Cote d'Ivoire,CIV,2020,0.53,
+Cote d'Ivoire,CIV,2021,0.53,
+Cote d'Ivoire,CIV,2022,0.534,
+Croatia,HRV,1997,0.731,Europe
+Croatia,HRV,1998,0.74,Europe
+Croatia,HRV,1999,0.748,Europe
+Croatia,HRV,2000,0.764,Europe
+Croatia,HRV,2001,0.779,Europe
+Croatia,HRV,2002,0.785,Europe
+Croatia,HRV,2003,0.79,Europe
+Croatia,HRV,2004,0.801,Europe
+Croatia,HRV,2005,0.806,Europe
+Croatia,HRV,2006,0.814,Europe
+Croatia,HRV,2007,0.818,Europe
+Croatia,HRV,2008,0.821,Europe
+Croatia,HRV,2009,0.819,Europe
+Croatia,HRV,2010,0.824,Europe
+Croatia,HRV,2011,0.829,Europe
+Croatia,HRV,2012,0.832,Europe
+Croatia,HRV,2013,0.839,Europe
+Croatia,HRV,2014,0.842,Europe
+Croatia,HRV,2015,0.844,Europe
+Croatia,HRV,2016,0.85,Europe
+Croatia,HRV,2017,0.855,Europe
+Croatia,HRV,2018,0.86,Europe
+Croatia,HRV,2019,0.866,Europe
+Croatia,HRV,2020,0.86,Europe
+Croatia,HRV,2021,0.867,Europe
+Croatia,HRV,2022,0.878,Europe
+Cuba,CUB,1997,0.676,
+Cuba,CUB,1998,0.68,
+Cuba,CUB,1999,0.687,
+Cuba,CUB,2000,0.694,
+Cuba,CUB,2001,0.701,
+Cuba,CUB,2002,0.706,
+Cuba,CUB,2003,0.714,
+Cuba,CUB,2004,0.728,
+Cuba,CUB,2005,0.741,
+Cuba,CUB,2006,0.761,
+Cuba,CUB,2007,0.775,
+Cuba,CUB,2008,0.784,
+Cuba,CUB,2009,0.784,
+Cuba,CUB,2010,0.779,
+Cuba,CUB,2011,0.776,
+Cuba,CUB,2012,0.771,
+Cuba,CUB,2013,0.766,
+Cuba,CUB,2014,0.766,
+Cuba,CUB,2015,0.765,
+Cuba,CUB,2016,0.763,
+Cuba,CUB,2017,0.764,
+Cuba,CUB,2018,0.765,
+Cuba,CUB,2019,0.766,
+Cuba,CUB,2020,0.759,
+Cuba,CUB,2021,0.742,
+Cuba,CUB,2022,0.764,
+Cyprus,CYP,1997,0.777,Europe
+Cyprus,CYP,1998,0.789,Europe
+Cyprus,CYP,1999,0.791,Europe
+Cyprus,CYP,2000,0.797,Europe
+Cyprus,CYP,2001,0.804,Europe
+Cyprus,CYP,2002,0.816,Europe
+Cyprus,CYP,2003,0.825,Europe
+Cyprus,CYP,2004,0.83,Europe
+Cyprus,CYP,2005,0.833,Europe
+Cyprus,CYP,2006,0.839,Europe
+Cyprus,CYP,2007,0.845,Europe
+Cyprus,CYP,2008,0.853,Europe
+Cyprus,CYP,2009,0.857,Europe
+Cyprus,CYP,2010,0.859,Europe
+Cyprus,CYP,2011,0.863,Europe
+Cyprus,CYP,2012,0.862,Europe
+Cyprus,CYP,2013,0.863,Europe
+Cyprus,CYP,2014,0.867,Europe
+Cyprus,CYP,2015,0.874,Europe
+Cyprus,CYP,2016,0.881,Europe
+Cyprus,CYP,2017,0.891,Europe
+Cyprus,CYP,2018,0.896,Europe
+Cyprus,CYP,2019,0.901,Europe
+Cyprus,CYP,2020,0.9,Europe
+Cyprus,CYP,2021,0.901,Europe
+Cyprus,CYP,2022,0.907,Europe
+Denmark,DNK,1997,0.871,Europe
+Denmark,DNK,1998,0.878,Europe
+Denmark,DNK,1999,0.888,Europe
+Denmark,DNK,2000,0.89,Europe
+Denmark,DNK,2001,0.897,Europe
+Denmark,DNK,2002,0.896,Europe
+Denmark,DNK,2003,0.901,Europe
+Denmark,DNK,2004,0.906,Europe
+Denmark,DNK,2005,0.911,Europe
+Denmark,DNK,2006,0.911,Europe
+Denmark,DNK,2007,0.912,Europe
+Denmark,DNK,2008,0.915,Europe
+Denmark,DNK,2009,0.909,Europe
+Denmark,DNK,2010,0.913,Europe
+Denmark,DNK,2011,0.927,Europe
+Denmark,DNK,2012,0.931,Europe
+Denmark,DNK,2013,0.933,Europe
+Denmark,DNK,2014,0.932,Europe
+Denmark,DNK,2015,0.936,Europe
+Denmark,DNK,2016,0.943,Europe
+Denmark,DNK,2017,0.944,Europe
+Denmark,DNK,2018,0.942,Europe
+Denmark,DNK,2019,0.946,Europe
+Denmark,DNK,2020,0.946,Europe
+Denmark,DNK,2021,0.947,Europe
+Denmark,DNK,2022,0.952,Europe
+Dominican Republic,DOM,1997,0.628,North America
+Dominican Republic,DOM,1998,0.634,North America
+Dominican Republic,DOM,1999,0.64,North America
+Dominican Republic,DOM,2000,0.646,North America
+Dominican Republic,DOM,2001,0.651,North America
+Dominican Republic,DOM,2002,0.657,North America
+Dominican Republic,DOM,2003,0.66,North America
+Dominican Republic,DOM,2004,0.663,North America
+Dominican Republic,DOM,2005,0.674,North America
+Dominican Republic,DOM,2006,0.684,North America
+Dominican Republic,DOM,2007,0.692,North America
+Dominican Republic,DOM,2008,0.697,North America
+Dominican Republic,DOM,2009,0.701,North America
+Dominican Republic,DOM,2010,0.707,North America
+Dominican Republic,DOM,2011,0.712,North America
+Dominican Republic,DOM,2012,0.718,North America
+Dominican Republic,DOM,2013,0.722,North America
+Dominican Republic,DOM,2014,0.728,North America
+Dominican Republic,DOM,2015,0.739,North America
+Dominican Republic,DOM,2016,0.759,North America
+Dominican Republic,DOM,2017,0.761,North America
+Dominican Republic,DOM,2018,0.763,North America
+Dominican Republic,DOM,2019,0.765,North America
+Dominican Republic,DOM,2020,0.76,North America
+Dominican Republic,DOM,2021,0.756,North America
+Dominican Republic,DOM,2022,0.766,North America
+Ecuador,ECU,1997,0.676,South America
+Ecuador,ECU,1998,0.681,South America
+Ecuador,ECU,1999,0.681,South America
+Ecuador,ECU,2000,0.684,South America
+Ecuador,ECU,2001,0.691,South America
+Ecuador,ECU,2002,0.697,South America
+Ecuador,ECU,2003,0.701,South America
+Ecuador,ECU,2004,0.708,South America
+Ecuador,ECU,2005,0.714,South America
+Ecuador,ECU,2006,0.719,South America
+Ecuador,ECU,2007,0.722,South America
+Ecuador,ECU,2008,0.728,South America
+Ecuador,ECU,2009,0.73,South America
+Ecuador,ECU,2010,0.736,South America
+Ecuador,ECU,2011,0.743,South America
+Ecuador,ECU,2012,0.75,South America
+Ecuador,ECU,2013,0.755,South America
+Ecuador,ECU,2014,0.759,South America
+Ecuador,ECU,2015,0.764,South America
+Ecuador,ECU,2016,0.761,South America
+Ecuador,ECU,2017,0.762,South America
+Ecuador,ECU,2018,0.761,South America
+Ecuador,ECU,2019,0.758,South America
+Ecuador,ECU,2020,0.734,South America
+Ecuador,ECU,2021,0.746,South America
+Ecuador,ECU,2022,0.765,South America
+Egypt,EGY,1997,0.615,Africa
+Egypt,EGY,1998,0.62,Africa
+Egypt,EGY,1999,0.625,Africa
+Egypt,EGY,2000,0.629,Africa
+Egypt,EGY,2001,0.633,Africa
+Egypt,EGY,2002,0.634,Africa
+Egypt,EGY,2003,0.632,Africa
+Egypt,EGY,2004,0.635,Africa
+Egypt,EGY,2005,0.637,Africa
+Egypt,EGY,2006,0.642,Africa
+Egypt,EGY,2007,0.649,Africa
+Egypt,EGY,2008,0.656,Africa
+Egypt,EGY,2009,0.661,Africa
+Egypt,EGY,2010,0.667,Africa
+Egypt,EGY,2011,0.671,Africa
+Egypt,EGY,2012,0.679,Africa
+Egypt,EGY,2013,0.684,Africa
+Egypt,EGY,2014,0.688,Africa
+Egypt,EGY,2015,0.695,Africa
+Egypt,EGY,2016,0.702,Africa
+Egypt,EGY,2017,0.709,Africa
+Egypt,EGY,2018,0.717,Africa
+Egypt,EGY,2019,0.724,Africa
+Egypt,EGY,2020,0.729,Africa
+Egypt,EGY,2021,0.726,Africa
+Egypt,EGY,2022,0.728,Africa
+El Salvador,SLV,1997,0.586,North America
+El Salvador,SLV,1998,0.595,North America
+El Salvador,SLV,1999,0.6,North America
+El Salvador,SLV,2000,0.609,North America
+El Salvador,SLV,2001,0.612,North America
+El Salvador,SLV,2002,0.621,North America
+El Salvador,SLV,2003,0.627,North America
+El Salvador,SLV,2004,0.633,North America
+El Salvador,SLV,2005,0.64,North America
+El Salvador,SLV,2006,0.645,North America
+El Salvador,SLV,2007,0.651,North America
+El Salvador,SLV,2008,0.651,North America
+El Salvador,SLV,2009,0.651,North America
+El Salvador,SLV,2010,0.657,North America
+El Salvador,SLV,2011,0.657,North America
+El Salvador,SLV,2012,0.661,North America
+El Salvador,SLV,2013,0.664,North America
+El Salvador,SLV,2014,0.663,North America
+El Salvador,SLV,2015,0.663,North America
+El Salvador,SLV,2016,0.664,North America
+El Salvador,SLV,2017,0.667,North America
+El Salvador,SLV,2018,0.673,North America
+El Salvador,SLV,2019,0.676,North America
+El Salvador,SLV,2020,0.666,North America
+El Salvador,SLV,2021,0.669,North America
+El Salvador,SLV,2022,0.674,North America
+Estonia,EST,1997,0.764,Europe
+Estonia,EST,1998,0.772,Europe
+Estonia,EST,1999,0.781,Europe
+Estonia,EST,2000,0.798,Europe
+Estonia,EST,2001,0.807,Europe
+Estonia,EST,2002,0.818,Europe
+Estonia,EST,2003,0.826,Europe
+Estonia,EST,2004,0.836,Europe
+Estonia,EST,2005,0.848,Europe
+Estonia,EST,2006,0.856,Europe
+Estonia,EST,2007,0.859,Europe
+Estonia,EST,2008,0.861,Europe
+Estonia,EST,2009,0.859,Europe
+Estonia,EST,2010,0.864,Europe
+Estonia,EST,2011,0.873,Europe
+Estonia,EST,2012,0.876,Europe
+Estonia,EST,2013,0.881,Europe
+Estonia,EST,2014,0.879,Europe
+Estonia,EST,2015,0.883,Europe
+Estonia,EST,2016,0.884,Europe
+Estonia,EST,2017,0.886,Europe
+Estonia,EST,2018,0.89,Europe
+Estonia,EST,2019,0.893,Europe
+Estonia,EST,2020,0.891,Europe
+Estonia,EST,2021,0.89,Europe
+Estonia,EST,2022,0.899,Europe
+Finland,FIN,1997,0.86,Europe
+Finland,FIN,1998,0.868,Europe
+Finland,FIN,1999,0.877,Europe
+Finland,FIN,2000,0.887,Europe
+Finland,FIN,2001,0.897,Europe
+Finland,FIN,2002,0.901,Europe
+Finland,FIN,2003,0.905,Europe
+Finland,FIN,2004,0.901,Europe
+Finland,FIN,2005,0.904,Europe
+Finland,FIN,2006,0.909,Europe
+Finland,FIN,2007,0.911,Europe
+Finland,FIN,2008,0.913,Europe
+Finland,FIN,2009,0.908,Europe
+Finland,FIN,2010,0.912,Europe
+Finland,FIN,2011,0.916,Europe
+Finland,FIN,2012,0.916,Europe
+Finland,FIN,2013,0.926,Europe
+Finland,FIN,2014,0.928,Europe
+Finland,FIN,2015,0.93,Europe
+Finland,FIN,2016,0.931,Europe
+Finland,FIN,2017,0.934,Europe
+Finland,FIN,2018,0.936,Europe
+Finland,FIN,2019,0.939,Europe
+Finland,FIN,2020,0.939,Europe
+Finland,FIN,2021,0.941,Europe
+Finland,FIN,2022,0.942,Europe
+France,FRA,1997,0.839,Europe
+France,FRA,1998,0.843,Europe
+France,FRA,1999,0.847,Europe
+France,FRA,2000,0.844,Europe
+France,FRA,2001,0.847,Europe
+France,FRA,2002,0.85,Europe
+France,FRA,2003,0.853,Europe
+France,FRA,2004,0.861,Europe
+France,FRA,2005,0.869,Europe
+France,FRA,2006,0.873,Europe
+France,FRA,2007,0.876,Europe
+France,FRA,2008,0.877,Europe
+France,FRA,2009,0.875,Europe
+France,FRA,2010,0.88,Europe
+France,FRA,2011,0.884,Europe
+France,FRA,2012,0.885,Europe
+France,FRA,2013,0.888,Europe
+France,FRA,2014,0.892,Europe
+France,FRA,2015,0.893,Europe
+France,FRA,2016,0.896,Europe
+France,FRA,2017,0.899,Europe
+France,FRA,2018,0.903,Europe
+France,FRA,2019,0.905,Europe
+France,FRA,2020,0.9,Europe
+France,FRA,2021,0.906,Europe
+France,FRA,2022,0.91,Europe
+Georgia,GEO,2000,0.694,Asia
+Georgia,GEO,2001,0.7,Asia
+Georgia,GEO,2002,0.709,Asia
+Georgia,GEO,2003,0.719,Asia
+Georgia,GEO,2004,0.727,Asia
+Georgia,GEO,2005,0.738,Asia
+Georgia,GEO,2006,0.744,Asia
+Georgia,GEO,2007,0.755,Asia
+Georgia,GEO,2008,0.751,Asia
+Georgia,GEO,2009,0.756,Asia
+Georgia,GEO,2010,0.763,Asia
+Georgia,GEO,2011,0.771,Asia
+Georgia,GEO,2012,0.779,Asia
+Georgia,GEO,2013,0.784,Asia
+Georgia,GEO,2014,0.793,Asia
+Georgia,GEO,2015,0.798,Asia
+Georgia,GEO,2016,0.802,Asia
+Georgia,GEO,2017,0.807,Asia
+Georgia,GEO,2018,0.816,Asia
+Georgia,GEO,2019,0.816,Asia
+Georgia,GEO,2020,0.807,Asia
+Georgia,GEO,2021,0.809,Asia
+Georgia,GEO,2022,0.814,Asia
+Germany,DEU,1997,0.874,Europe
+Germany,DEU,1998,0.879,Europe
+Germany,DEU,1999,0.884,Europe
+Germany,DEU,2000,0.89,Europe
+Germany,DEU,2001,0.897,Europe
+Germany,DEU,2002,0.902,Europe
+Germany,DEU,2003,0.906,Europe
+Germany,DEU,2004,0.915,Europe
+Germany,DEU,2005,0.916,Europe
+Germany,DEU,2006,0.92,Europe
+Germany,DEU,2007,0.923,Europe
+Germany,DEU,2008,0.926,Europe
+Germany,DEU,2009,0.925,Europe
+Germany,DEU,2010,0.929,Europe
+Germany,DEU,2011,0.935,Europe
+Germany,DEU,2012,0.937,Europe
+Germany,DEU,2013,0.938,Europe
+Germany,DEU,2014,0.942,Europe
+Germany,DEU,2015,0.941,Europe
+Germany,DEU,2016,0.941,Europe
+Germany,DEU,2017,0.944,Europe
+Germany,DEU,2018,0.946,Europe
+Germany,DEU,2019,0.951,Europe
+Germany,DEU,2020,0.948,Europe
+Germany,DEU,2021,0.948,Europe
+Germany,DEU,2022,0.95,Europe
+Greece,GRC,1997,0.796,Europe
+Greece,GRC,1998,0.806,Europe
+Greece,GRC,1999,0.809,Europe
+Greece,GRC,2000,0.818,Europe
+Greece,GRC,2001,0.827,Europe
+Greece,GRC,2002,0.838,Europe
+Greece,GRC,2003,0.844,Europe
+Greece,GRC,2004,0.852,Europe
+Greece,GRC,2005,0.864,Europe
+Greece,GRC,2006,0.872,Europe
+Greece,GRC,2007,0.866,Europe
+Greece,GRC,2008,0.871,Europe
+Greece,GRC,2009,0.873,Europe
+Greece,GRC,2010,0.874,Europe
+Greece,GRC,2011,0.871,Europe
+Greece,GRC,2012,0.87,Europe
+Greece,GRC,2013,0.874,Europe
+Greece,GRC,2014,0.879,Europe
+Greece,GRC,2015,0.881,Europe
+Greece,GRC,2016,0.877,Europe
+Greece,GRC,2017,0.88,Europe
+Greece,GRC,2018,0.886,Europe
+Greece,GRC,2019,0.89,Europe
+Greece,GRC,2020,0.887,Europe
+Greece,GRC,2021,0.887,Europe
+Greece,GRC,2022,0.893,Europe
+Guinea-Bissau,GNB,2005,0.402,
+Guinea-Bissau,GNB,2006,0.414,
+Guinea-Bissau,GNB,2007,0.421,
+Guinea-Bissau,GNB,2008,0.426,
+Guinea-Bissau,GNB,2009,0.434,
+Guinea-Bissau,GNB,2010,0.441,
+Guinea-Bissau,GNB,2011,0.45,
+Guinea-Bissau,GNB,2012,0.454,
+Guinea-Bissau,GNB,2013,0.458,
+Guinea-Bissau,GNB,2014,0.465,
+Guinea-Bissau,GNB,2015,0.47,
+Guinea-Bissau,GNB,2016,0.476,
+Guinea-Bissau,GNB,2017,0.479,
+Guinea-Bissau,GNB,2018,0.48,
+Guinea-Bissau,GNB,2019,0.488,
+Guinea-Bissau,GNB,2020,0.482,
+Guinea-Bissau,GNB,2021,0.482,
+Guinea-Bissau,GNB,2022,0.483,
+Guyana,GUY,1997,0.556,
+Guyana,GUY,1998,0.561,
+Guyana,GUY,1999,0.566,
+Guyana,GUY,2000,0.57,
+Guyana,GUY,2001,0.578,
+Guyana,GUY,2002,0.584,
+Guyana,GUY,2003,0.591,
+Guyana,GUY,2004,0.604,
+Guyana,GUY,2005,0.615,
+Guyana,GUY,2006,0.624,
+Guyana,GUY,2007,0.631,
+Guyana,GUY,2008,0.636,
+Guyana,GUY,2009,0.641,
+Guyana,GUY,2010,0.65,
+Guyana,GUY,2011,0.663,
+Guyana,GUY,2012,0.669,
+Guyana,GUY,2013,0.674,
+Guyana,GUY,2014,0.682,
+Guyana,GUY,2015,0.686,
+Guyana,GUY,2016,0.693,
+Guyana,GUY,2017,0.699,
+Guyana,GUY,2018,0.704,
+Guyana,GUY,2019,0.711,
+Guyana,GUY,2020,0.727,
+Guyana,GUY,2021,0.721,
+Guyana,GUY,2022,0.742,
+Hong Kong,HKG,1997,0.808,Asia
+Hong Kong,HKG,1998,0.813,Asia
+Hong Kong,HKG,1999,0.821,Asia
+Hong Kong,HKG,2000,0.831,Asia
+Hong Kong,HKG,2001,0.839,Asia
+Hong Kong,HKG,2002,0.846,Asia
+Hong Kong,HKG,2003,0.854,Asia
+Hong Kong,HKG,2004,0.863,Asia
+Hong Kong,HKG,2005,0.871,Asia
+Hong Kong,HKG,2006,0.878,Asia
+Hong Kong,HKG,2007,0.892,Asia
+Hong Kong,HKG,2008,0.908,Asia
+Hong Kong,HKG,2009,0.91,Asia
+Hong Kong,HKG,2010,0.914,Asia
+Hong Kong,HKG,2011,0.921,Asia
+Hong Kong,HKG,2012,0.925,Asia
+Hong Kong,HKG,2013,0.928,Asia
+Hong Kong,HKG,2014,0.932,Asia
+Hong Kong,HKG,2015,0.936,Asia
+Hong Kong,HKG,2016,0.939,Asia
+Hong Kong,HKG,2017,0.946,Asia
+Hong Kong,HKG,2018,0.949,Asia
+Hong Kong,HKG,2019,0.953,Asia
+Hong Kong,HKG,2020,0.955,Asia
+Hong Kong,HKG,2021,0.959,Asia
+Hong Kong,HKG,2022,0.956,Asia
+Hungary,HUN,1997,0.75,Europe
+Hungary,HUN,1998,0.755,Europe
+Hungary,HUN,1999,0.762,Europe
+Hungary,HUN,2000,0.773,Europe
+Hungary,HUN,2001,0.782,Europe
+Hungary,HUN,2002,0.791,Europe
+Hungary,HUN,2003,0.798,Europe
+Hungary,HUN,2004,0.802,Europe
+Hungary,HUN,2005,0.807,Europe
+Hungary,HUN,2006,0.815,Europe
+Hungary,HUN,2007,0.818,Europe
+Hungary,HUN,2008,0.824,Europe
+Hungary,HUN,2009,0.826,Europe
+Hungary,HUN,2010,0.829,Europe
+Hungary,HUN,2011,0.833,Europe
+Hungary,HUN,2012,0.833,Europe
+Hungary,HUN,2013,0.843,Europe
+Hungary,HUN,2014,0.84,Europe
+Hungary,HUN,2015,0.839,Europe
+Hungary,HUN,2016,0.843,Europe
+Hungary,HUN,2017,0.846,Europe
+Hungary,HUN,2018,0.85,Europe
+Hungary,HUN,2019,0.854,Europe
+Hungary,HUN,2020,0.849,Europe
+Hungary,HUN,2021,0.846,Europe
+Hungary,HUN,2022,0.851,Europe
+Iceland,ISL,1997,0.874,Europe
+Iceland,ISL,1998,0.885,Europe
+Iceland,ISL,1999,0.886,Europe
+Iceland,ISL,2000,0.895,Europe
+Iceland,ISL,2001,0.902,Europe
+Iceland,ISL,2002,0.909,Europe
+Iceland,ISL,2003,0.916,Europe
+Iceland,ISL,2004,0.92,Europe
+Iceland,ISL,2005,0.926,Europe
+Iceland,ISL,2006,0.928,Europe
+Iceland,ISL,2007,0.933,Europe
+Iceland,ISL,2008,0.927,Europe
+Iceland,ISL,2009,0.925,Europe
+Iceland,ISL,2010,0.927,Europe
+Iceland,ISL,2011,0.933,Europe
+Iceland,ISL,2012,0.938,Europe
+Iceland,ISL,2013,0.942,Europe
+Iceland,ISL,2014,0.946,Europe
+Iceland,ISL,2015,0.948,Europe
+Iceland,ISL,2016,0.951,Europe
+Iceland,ISL,2017,0.955,Europe
+Iceland,ISL,2018,0.958,Europe
+Iceland,ISL,2019,0.958,Europe
+Iceland,ISL,2020,0.955,Europe
+Iceland,ISL,2021,0.957,Europe
+Iceland,ISL,2022,0.959,Europe
+India,IND,1997,0.471,Asia
+India,IND,1998,0.477,Asia
+India,IND,1999,0.485,Asia
+India,IND,2000,0.49,Asia
+India,IND,2001,0.495,Asia
+India,IND,2002,0.501,Asia
+India,IND,2003,0.514,Asia
+India,IND,2004,0.523,Asia
+India,IND,2005,0.532,Asia
+India,IND,2006,0.541,Asia
+India,IND,2007,0.55,Asia
+India,IND,2008,0.557,Asia
+India,IND,2009,0.562,Asia
+India,IND,2010,0.572,Asia
+India,IND,2011,0.586,Asia
+India,IND,2012,0.594,Asia
+India,IND,2013,0.6,Asia
+India,IND,2014,0.611,Asia
+India,IND,2015,0.619,Asia
+India,IND,2016,0.63,Asia
+India,IND,2017,0.636,Asia
+India,IND,2018,0.636,Asia
+India,IND,2019,0.638,Asia
+India,IND,2020,0.638,Asia
+India,IND,2021,0.633,Asia
+India,IND,2022,0.644,Asia
+Indonesia,IDN,1997,0.59,Asia
+Indonesia,IDN,1998,0.587,Asia
+Indonesia,IDN,1999,0.592,Asia
+Indonesia,IDN,2000,0.597,Asia
+Indonesia,IDN,2001,0.605,Asia
+Indonesia,IDN,2002,0.614,Asia
+Indonesia,IDN,2003,0.622,Asia
+Indonesia,IDN,2004,0.621,Asia
+Indonesia,IDN,2005,0.634,Asia
+Indonesia,IDN,2006,0.643,Asia
+Indonesia,IDN,2007,0.646,Asia
+Indonesia,IDN,2008,0.649,Asia
+Indonesia,IDN,2009,0.66,Asia
+Indonesia,IDN,2010,0.667,Asia
+Indonesia,IDN,2011,0.674,Asia
+Indonesia,IDN,2012,0.682,Asia
+Indonesia,IDN,2013,0.687,Asia
+Indonesia,IDN,2014,0.69,Asia
+Indonesia,IDN,2015,0.698,Asia
+Indonesia,IDN,2016,0.701,Asia
+Indonesia,IDN,2017,0.708,Asia
+Indonesia,IDN,2018,0.712,Asia
+Indonesia,IDN,2019,0.718,Asia
+Indonesia,IDN,2020,0.712,Asia
+Indonesia,IDN,2021,0.707,Asia
+Indonesia,IDN,2022,0.713,Asia
+Iran,IRN,1997,0.671,
+Iran,IRN,1998,0.677,
+Iran,IRN,1999,0.685,
+Iran,IRN,2000,0.692,
+Iran,IRN,2001,0.7,
+Iran,IRN,2002,0.708,
+Iran,IRN,2003,0.713,
+Iran,IRN,2004,0.722,
+Iran,IRN,2005,0.727,
+Iran,IRN,2006,0.738,
+Iran,IRN,2007,0.742,
+Iran,IRN,2008,0.744,
+Iran,IRN,2009,0.748,
+Iran,IRN,2010,0.756,
+Iran,IRN,2011,0.765,
+Iran,IRN,2012,0.78,
+Iran,IRN,2013,0.78,
+Iran,IRN,2014,0.783,
+Iran,IRN,2015,0.782,
+Iran,IRN,2016,0.785,
+Iran,IRN,2017,0.788,
+Iran,IRN,2018,0.787,
+Iran,IRN,2019,0.785,
+Iran,IRN,2020,0.779,
+Iran,IRN,2021,0.776,
+Iran,IRN,2022,0.78,
+Iraq,IRQ,1997,0.549,Asia
+Iraq,IRQ,1998,0.564,Asia
+Iraq,IRQ,1999,0.577,Asia
+Iraq,IRQ,2000,0.583,Asia
+Iraq,IRQ,2001,0.588,Asia
+Iraq,IRQ,2002,0.588,Asia
+Iraq,IRQ,2003,0.566,Asia
+Iraq,IRQ,2004,0.588,Asia
+Iraq,IRQ,2005,0.591,Asia
+Iraq,IRQ,2006,0.591,Asia
+Iraq,IRQ,2007,0.596,Asia
+Iraq,IRQ,2008,0.612,Asia
+Iraq,IRQ,2009,0.622,Asia
+Iraq,IRQ,2010,0.629,Asia
+Iraq,IRQ,2011,0.637,Asia
+Iraq,IRQ,2012,0.644,Asia
+Iraq,IRQ,2013,0.648,Asia
+Iraq,IRQ,2014,0.651,Asia
+Iraq,IRQ,2015,0.656,Asia
+Iraq,IRQ,2016,0.661,Asia
+Iraq,IRQ,2017,0.667,Asia
+Iraq,IRQ,2018,0.673,Asia
+Iraq,IRQ,2019,0.678,Asia
+Iraq,IRQ,2020,0.661,Asia
+Iraq,IRQ,2021,0.667,Asia
+Iraq,IRQ,2022,0.673,Asia
+Ireland,IRL,1997,0.803,Europe
+Ireland,IRL,1998,0.837,Europe
+Ireland,IRL,1999,0.841,Europe
+Ireland,IRL,2000,0.851,Europe
+Ireland,IRL,2001,0.859,Europe
+Ireland,IRL,2002,0.868,Europe
+Ireland,IRL,2003,0.877,Europe
+Ireland,IRL,2004,0.888,Europe
+Ireland,IRL,2005,0.894,Europe
+Ireland,IRL,2006,0.898,Europe
+Ireland,IRL,2007,0.904,Europe
+Ireland,IRL,2008,0.905,Europe
+Ireland,IRL,2009,0.9,Europe
+Ireland,IRL,2010,0.908,Europe
+Ireland,IRL,2011,0.906,Europe
+Ireland,IRL,2012,0.907,Europe
+Ireland,IRL,2013,0.911,Europe
+Ireland,IRL,2014,0.918,Europe
+Ireland,IRL,2015,0.924,Europe
+Ireland,IRL,2016,0.929,Europe
+Ireland,IRL,2017,0.934,Europe
+Ireland,IRL,2018,0.938,Europe
+Ireland,IRL,2019,0.942,Europe
+Ireland,IRL,2020,0.945,Europe
+Ireland,IRL,2021,0.946,Europe
+Ireland,IRL,2022,0.95,Europe
+Israel,ISR,1997,0.82,Asia
+Israel,ISR,1998,0.828,Asia
+Israel,ISR,1999,0.835,Asia
+Israel,ISR,2000,0.835,Asia
+Israel,ISR,2001,0.838,Asia
+Israel,ISR,2002,0.843,Asia
+Israel,ISR,2003,0.843,Asia
+Israel,ISR,2004,0.847,Asia
+Israel,ISR,2005,0.856,Asia
+Israel,ISR,2006,0.864,Asia
+Israel,ISR,2007,0.876,Asia
+Israel,ISR,2008,0.877,Asia
+Israel,ISR,2009,0.881,Asia
+Israel,ISR,2010,0.887,Asia
+Israel,ISR,2011,0.89,Asia
+Israel,ISR,2012,0.891,Asia
+Israel,ISR,2013,0.896,Asia
+Israel,ISR,2014,0.899,Asia
+Israel,ISR,2015,0.899,Asia
+Israel,ISR,2016,0.902,Asia
+Israel,ISR,2017,0.906,Asia
+Israel,ISR,2018,0.908,Asia
+Israel,ISR,2019,0.909,Asia
+Israel,ISR,2020,0.906,Asia
+Israel,ISR,2021,0.911,Asia
+Israel,ISR,2022,0.915,Asia
+Italy,ITA,1997,0.828,Europe
+Italy,ITA,1998,0.832,Europe
+Italy,ITA,1999,0.837,Europe
+Italy,ITA,2000,0.842,Europe
+Italy,ITA,2001,0.849,Europe
+Italy,ITA,2002,0.854,Europe
+Italy,ITA,2003,0.858,Europe
+Italy,ITA,2004,0.866,Europe
+Italy,ITA,2005,0.869,Europe
+Italy,ITA,2006,0.874,Europe
+Italy,ITA,2007,0.878,Europe
+Italy,ITA,2008,0.878,Europe
+Italy,ITA,2009,0.877,Europe
+Italy,ITA,2010,0.88,Europe
+Italy,ITA,2011,0.883,Europe
+Italy,ITA,2012,0.881,Europe
+Italy,ITA,2013,0.88,Europe
+Italy,ITA,2014,0.882,Europe
+Italy,ITA,2015,0.881,Europe
+Italy,ITA,2016,0.886,Europe
+Italy,ITA,2017,0.889,Europe
+Italy,ITA,2018,0.894,Europe
+Italy,ITA,2019,0.899,Europe
+Italy,ITA,2020,0.892,Europe
+Italy,ITA,2021,0.899,Europe
+Italy,ITA,2022,0.906,Europe
+Jamaica,JAM,1997,0.662,North America
+Jamaica,JAM,1998,0.661,North America
+Jamaica,JAM,1999,0.661,North America
+Jamaica,JAM,2000,0.657,North America
+Jamaica,JAM,2001,0.666,North America
+Jamaica,JAM,2002,0.669,North America
+Jamaica,JAM,2003,0.665,North America
+Jamaica,JAM,2004,0.68,North America
+Jamaica,JAM,2005,0.685,North America
+Jamaica,JAM,2006,0.695,North America
+Jamaica,JAM,2007,0.703,North America
+Jamaica,JAM,2008,0.712,North America
+Jamaica,JAM,2009,0.712,North America
+Jamaica,JAM,2010,0.711,North America
+Jamaica,JAM,2011,0.715,North America
+Jamaica,JAM,2012,0.716,North America
+Jamaica,JAM,2013,0.715,North America
+Jamaica,JAM,2014,0.714,North America
+Jamaica,JAM,2015,0.712,North America
+Jamaica,JAM,2016,0.71,North America
+Jamaica,JAM,2017,0.711,North America
+Jamaica,JAM,2018,0.711,North America
+Jamaica,JAM,2019,0.712,North America
+Jamaica,JAM,2020,0.707,North America
+Jamaica,JAM,2021,0.704,North America
+Jamaica,JAM,2022,0.706,North America
+Japan,JPN,1997,0.877,Asia
+Japan,JPN,1998,0.877,Asia
+Japan,JPN,1999,0.878,Asia
+Japan,JPN,2000,0.883,Asia
+Japan,JPN,2001,0.885,Asia
+Japan,JPN,2002,0.888,Asia
+Japan,JPN,2003,0.889,Asia
+Japan,JPN,2004,0.893,Asia
+Japan,JPN,2005,0.894,Asia
+Japan,JPN,2006,0.898,Asia
+Japan,JPN,2007,0.9,Asia
+Japan,JPN,2008,0.901,Asia
+Japan,JPN,2009,0.9,Asia
+Japan,JPN,2010,0.903,Asia
+Japan,JPN,2011,0.902,Asia
+Japan,JPN,2012,0.906,Asia
+Japan,JPN,2013,0.909,Asia
+Japan,JPN,2014,0.91,Asia
+Japan,JPN,2015,0.913,Asia
+Japan,JPN,2016,0.914,Asia
+Japan,JPN,2017,0.916,Asia
+Japan,JPN,2018,0.917,Asia
+Japan,JPN,2019,0.918,Asia
+Japan,JPN,2020,0.917,Asia
+Japan,JPN,2021,0.92,Asia
+Japan,JPN,2022,0.92,Asia
+Jordan,JOR,1997,0.667,Asia
+Jordan,JOR,1998,0.671,Asia
+Jordan,JOR,1999,0.676,Asia
+Jordan,JOR,2000,0.681,Asia
+Jordan,JOR,2001,0.687,Asia
+Jordan,JOR,2002,0.691,Asia
+Jordan,JOR,2003,0.697,Asia
+Jordan,JOR,2004,0.707,Asia
+Jordan,JOR,2005,0.713,Asia
+Jordan,JOR,2006,0.719,Asia
+Jordan,JOR,2007,0.716,Asia
+Jordan,JOR,2008,0.726,Asia
+Jordan,JOR,2009,0.728,Asia
+Jordan,JOR,2010,0.727,Asia
+Jordan,JOR,2011,0.73,Asia
+Jordan,JOR,2012,0.736,Asia
+Jordan,JOR,2013,0.738,Asia
+Jordan,JOR,2014,0.737,Asia
+Jordan,JOR,2015,0.738,Asia
+Jordan,JOR,2016,0.74,Asia
+Jordan,JOR,2017,0.744,Asia
+Jordan,JOR,2018,0.742,Asia
+Jordan,JOR,2019,0.744,Asia
+Jordan,JOR,2020,0.74,Asia
+Jordan,JOR,2021,0.736,Asia
+Jordan,JOR,2022,0.736,Asia
+Kazakhstan,KAZ,1997,0.662,Asia
+Kazakhstan,KAZ,1998,0.666,Asia
+Kazakhstan,KAZ,1999,0.672,Asia
+Kazakhstan,KAZ,2000,0.68,Asia
+Kazakhstan,KAZ,2001,0.695,Asia
+Kazakhstan,KAZ,2002,0.706,Asia
+Kazakhstan,KAZ,2003,0.717,Asia
+Kazakhstan,KAZ,2004,0.729,Asia
+Kazakhstan,KAZ,2005,0.739,Asia
+Kazakhstan,KAZ,2006,0.75,Asia
+Kazakhstan,KAZ,2007,0.757,Asia
+Kazakhstan,KAZ,2008,0.757,Asia
+Kazakhstan,KAZ,2009,0.76,Asia
+Kazakhstan,KAZ,2010,0.766,Asia
+Kazakhstan,KAZ,2011,0.774,Asia
+Kazakhstan,KAZ,2012,0.781,Asia
+Kazakhstan,KAZ,2013,0.789,Asia
+Kazakhstan,KAZ,2014,0.794,Asia
+Kazakhstan,KAZ,2015,0.799,Asia
+Kazakhstan,KAZ,2016,0.797,Asia
+Kazakhstan,KAZ,2017,0.802,Asia
+Kazakhstan,KAZ,2018,0.804,Asia
+Kazakhstan,KAZ,2019,0.81,Asia
+Kazakhstan,KAZ,2020,0.806,Asia
+Kazakhstan,KAZ,2021,0.801,Asia
+Kazakhstan,KAZ,2022,0.802,Asia
+Kyrgyzstan,KGZ,1997,0.6,Asia
+Kyrgyzstan,KGZ,1998,0.606,Asia
+Kyrgyzstan,KGZ,1999,0.613,Asia
+Kyrgyzstan,KGZ,2000,0.617,Asia
+Kyrgyzstan,KGZ,2001,0.626,Asia
+Kyrgyzstan,KGZ,2002,0.627,Asia
+Kyrgyzstan,KGZ,2003,0.635,Asia
+Kyrgyzstan,KGZ,2004,0.638,Asia
+Kyrgyzstan,KGZ,2005,0.64,Asia
+Kyrgyzstan,KGZ,2006,0.646,Asia
+Kyrgyzstan,KGZ,2007,0.652,Asia
+Kyrgyzstan,KGZ,2008,0.657,Asia
+Kyrgyzstan,KGZ,2009,0.661,Asia
+Kyrgyzstan,KGZ,2010,0.661,Asia
+Kyrgyzstan,KGZ,2011,0.664,Asia
+Kyrgyzstan,KGZ,2012,0.673,Asia
+Kyrgyzstan,KGZ,2013,0.68,Asia
+Kyrgyzstan,KGZ,2014,0.686,Asia
+Kyrgyzstan,KGZ,2015,0.689,Asia
+Kyrgyzstan,KGZ,2016,0.692,Asia
+Kyrgyzstan,KGZ,2017,0.695,Asia
+Kyrgyzstan,KGZ,2018,0.698,Asia
+Kyrgyzstan,KGZ,2019,0.699,Asia
+Kyrgyzstan,KGZ,2020,0.691,Asia
+Kyrgyzstan,KGZ,2021,0.696,Asia
+Kyrgyzstan,KGZ,2022,0.701,Asia
+Latvia,LVA,1997,0.725,Europe
+Latvia,LVA,1998,0.736,Europe
+Latvia,LVA,1999,0.75,Europe
+Latvia,LVA,2000,0.761,Europe
+Latvia,LVA,2001,0.772,Europe
+Latvia,LVA,2002,0.784,Europe
+Latvia,LVA,2003,0.795,Europe
+Latvia,LVA,2004,0.805,Europe
+Latvia,LVA,2005,0.815,Europe
+Latvia,LVA,2006,0.821,Europe
+Latvia,LVA,2007,0.825,Europe
+Latvia,LVA,2008,0.832,Europe
+Latvia,LVA,2009,0.831,Europe
+Latvia,LVA,2010,0.827,Europe
+Latvia,LVA,2011,0.833,Europe
+Latvia,LVA,2012,0.837,Europe
+Latvia,LVA,2013,0.846,Europe
+Latvia,LVA,2014,0.85,Europe
+Latvia,LVA,2015,0.853,Europe
+Latvia,LVA,2016,0.858,Europe
+Latvia,LVA,2017,0.863,Europe
+Latvia,LVA,2018,0.868,Europe
+Latvia,LVA,2019,0.873,Europe
+Latvia,LVA,2020,0.873,Europe
+Latvia,LVA,2021,0.865,Europe
+Latvia,LVA,2022,0.879,Europe
+Lebanon,LBN,2005,0.71,Asia
+Lebanon,LBN,2006,0.711,Asia
+Lebanon,LBN,2007,0.724,Asia
+Lebanon,LBN,2008,0.733,Asia
+Lebanon,LBN,2009,0.741,Asia
+Lebanon,LBN,2010,0.749,Asia
+Lebanon,LBN,2011,0.755,Asia
+Lebanon,LBN,2012,0.757,Asia
+Lebanon,LBN,2013,0.756,Asia
+Lebanon,LBN,2014,0.755,Asia
+Lebanon,LBN,2015,0.756,Asia
+Lebanon,LBN,2016,0.76,Asia
+Lebanon,LBN,2017,0.765,Asia
+Lebanon,LBN,2018,0.764,Asia
+Lebanon,LBN,2019,0.76,Asia
+Lebanon,LBN,2020,0.742,Asia
+Lebanon,LBN,2021,0.725,Asia
+Lebanon,LBN,2022,0.723,Asia
+Liberia,LBR,1999,0.392,Africa
+Liberia,LBR,2000,0.434,Africa
+Liberia,LBR,2001,0.44,Africa
+Liberia,LBR,2002,0.446,Africa
+Liberia,LBR,2003,0.422,Africa
+Liberia,LBR,2004,0.435,Africa
+Liberia,LBR,2005,0.439,Africa
+Liberia,LBR,2006,0.443,Africa
+Liberia,LBR,2007,0.448,Africa
+Liberia,LBR,2008,0.453,Africa
+Liberia,LBR,2009,0.456,Africa
+Liberia,LBR,2010,0.46,Africa
+Liberia,LBR,2011,0.464,Africa
+Liberia,LBR,2012,0.469,Africa
+Liberia,LBR,2013,0.474,Africa
+Liberia,LBR,2014,0.472,Africa
+Liberia,LBR,2015,0.472,Africa
+Liberia,LBR,2016,0.478,Africa
+Liberia,LBR,2017,0.481,Africa
+Liberia,LBR,2018,0.484,Africa
+Liberia,LBR,2019,0.485,Africa
+Liberia,LBR,2020,0.483,Africa
+Liberia,LBR,2021,0.484,Africa
+Liberia,LBR,2022,0.487,Africa
+Lithuania,LTU,1997,0.732,Europe
+Lithuania,LTU,1998,0.744,Europe
+Lithuania,LTU,1999,0.753,Europe
+Lithuania,LTU,2000,0.769,Europe
+Lithuania,LTU,2001,0.779,Europe
+Lithuania,LTU,2002,0.791,Europe
+Lithuania,LTU,2003,0.805,Europe
+Lithuania,LTU,2004,0.813,Europe
+Lithuania,LTU,2005,0.821,Europe
+Lithuania,LTU,2006,0.828,Europe
+Lithuania,LTU,2007,0.835,Europe
+Lithuania,LTU,2008,0.843,Europe
+Lithuania,LTU,2009,0.843,Europe
+Lithuania,LTU,2010,0.846,Europe
+Lithuania,LTU,2011,0.853,Europe
+Lithuania,LTU,2012,0.855,Europe
+Lithuania,LTU,2013,0.858,Europe
+Lithuania,LTU,2014,0.864,Europe
+Lithuania,LTU,2015,0.865,Europe
+Lithuania,LTU,2016,0.87,Europe
+Lithuania,LTU,2017,0.878,Europe
+Lithuania,LTU,2018,0.882,Europe
+Lithuania,LTU,2019,0.886,Europe
+Lithuania,LTU,2020,0.88,Europe
+Lithuania,LTU,2021,0.875,Europe
+Lithuania,LTU,2022,0.879,Europe
+Malaysia,MYS,1997,0.707,Asia
+Malaysia,MYS,1998,0.71,Asia
+Malaysia,MYS,1999,0.715,Asia
+Malaysia,MYS,2000,0.726,Asia
+Malaysia,MYS,2001,0.726,Asia
+Malaysia,MYS,2002,0.725,Asia
+Malaysia,MYS,2003,0.73,Asia
+Malaysia,MYS,2004,0.731,Asia
+Malaysia,MYS,2005,0.728,Asia
+Malaysia,MYS,2006,0.732,Asia
+Malaysia,MYS,2007,0.744,Asia
+Malaysia,MYS,2008,0.754,Asia
+Malaysia,MYS,2009,0.761,Asia
+Malaysia,MYS,2010,0.768,Asia
+Malaysia,MYS,2011,0.771,Asia
+Malaysia,MYS,2012,0.777,Asia
+Malaysia,MYS,2013,0.782,Asia
+Malaysia,MYS,2014,0.787,Asia
+Malaysia,MYS,2015,0.792,Asia
+Malaysia,MYS,2016,0.798,Asia
+Malaysia,MYS,2017,0.8,Asia
+Malaysia,MYS,2018,0.802,Asia
+Malaysia,MYS,2019,0.805,Asia
+Malaysia,MYS,2020,0.802,Asia
+Malaysia,MYS,2021,0.798,Asia
+Malaysia,MYS,2022,0.807,Asia
+Mexico,MEX,1997,0.692,North America
+Mexico,MEX,1998,0.699,North America
+Mexico,MEX,1999,0.704,North America
+Mexico,MEX,2000,0.709,North America
+Mexico,MEX,2001,0.712,North America
+Mexico,MEX,2002,0.719,North America
+Mexico,MEX,2003,0.725,North America
+Mexico,MEX,2004,0.729,North America
+Mexico,MEX,2005,0.733,North America
+Mexico,MEX,2006,0.741,North America
+Mexico,MEX,2007,0.743,North America
+Mexico,MEX,2008,0.745,North America
+Mexico,MEX,2009,0.745,North America
+Mexico,MEX,2010,0.747,North America
+Mexico,MEX,2011,0.753,North America
+Mexico,MEX,2012,0.76,North America
+Mexico,MEX,2013,0.761,North America
+Mexico,MEX,2014,0.765,North America
+Mexico,MEX,2015,0.769,North America
+Mexico,MEX,2016,0.773,North America
+Mexico,MEX,2017,0.776,North America
+Mexico,MEX,2018,0.779,North America
+Mexico,MEX,2019,0.781,North America
+Mexico,MEX,2020,0.757,North America
+Mexico,MEX,2021,0.757,North America
+Mexico,MEX,2022,0.781,North America
+Moldova,MDA,1997,0.646,Europe
+Moldova,MDA,1998,0.646,Europe
+Moldova,MDA,1999,0.647,Europe
+Moldova,MDA,2000,0.655,Europe
+Moldova,MDA,2001,0.662,Europe
+Moldova,MDA,2002,0.671,Europe
+Moldova,MDA,2003,0.681,Europe
+Moldova,MDA,2004,0.691,Europe
+Moldova,MDA,2005,0.698,Europe
+Moldova,MDA,2006,0.706,Europe
+Moldova,MDA,2007,0.711,Europe
+Moldova,MDA,2008,0.718,Europe
+Moldova,MDA,2009,0.713,Europe
+Moldova,MDA,2010,0.716,Europe
+Moldova,MDA,2011,0.719,Europe
+Moldova,MDA,2012,0.722,Europe
+Moldova,MDA,2013,0.726,Europe
+Moldova,MDA,2014,0.749,Europe
+Moldova,MDA,2015,0.749,Europe
+Moldova,MDA,2016,0.755,Europe
+Moldova,MDA,2017,0.764,Europe
+Moldova,MDA,2018,0.767,Europe
+Moldova,MDA,2019,0.773,Europe
+Moldova,MDA,2020,0.765,Europe
+Moldova,MDA,2021,0.767,Europe
+Moldova,MDA,2022,0.763,Europe
+Mongolia,MNG,1997,0.569,Asia
+Mongolia,MNG,1998,0.579,Asia
+Mongolia,MNG,1999,0.587,Asia
+Mongolia,MNG,2000,0.595,Asia
+Mongolia,MNG,2001,0.606,Asia
+Mongolia,MNG,2002,0.615,Asia
+Mongolia,MNG,2003,0.629,Asia
+Mongolia,MNG,2004,0.646,Asia
+Mongolia,MNG,2005,0.658,Asia
+Mongolia,MNG,2006,0.669,Asia
+Mongolia,MNG,2007,0.68,Asia
+Mongolia,MNG,2008,0.69,Asia
+Mongolia,MNG,2009,0.694,Asia
+Mongolia,MNG,2010,0.7,Asia
+Mongolia,MNG,2011,0.71,Asia
+Mongolia,MNG,2012,0.72,Asia
+Mongolia,MNG,2013,0.73,Asia
+Mongolia,MNG,2014,0.735,Asia
+Mongolia,MNG,2015,0.739,Asia
+Mongolia,MNG,2016,0.741,Asia
+Mongolia,MNG,2017,0.742,Asia
+Mongolia,MNG,2018,0.754,Asia
+Mongolia,MNG,2019,0.749,Asia
+Mongolia,MNG,2020,0.74,Asia
+Mongolia,MNG,2021,0.73,Asia
+Mongolia,MNG,2022,0.741,Asia
+Montenegro,MNE,2003,0.749,Europe
+Montenegro,MNE,2004,0.758,Europe
+Montenegro,MNE,2005,0.761,Europe
+Montenegro,MNE,2006,0.771,Europe
+Montenegro,MNE,2007,0.783,Europe
+Montenegro,MNE,2008,0.797,Europe
+Montenegro,MNE,2009,0.798,Europe
+Montenegro,MNE,2010,0.806,Europe
+Montenegro,MNE,2011,0.811,Europe
+Montenegro,MNE,2012,0.813,Europe
+Montenegro,MNE,2013,0.819,Europe
+Montenegro,MNE,2014,0.822,Europe
+Montenegro,MNE,2015,0.827,Europe
+Montenegro,MNE,2016,0.826,Europe
+Montenegro,MNE,2017,0.833,Europe
+Montenegro,MNE,2018,0.838,Europe
+Montenegro,MNE,2019,0.841,Europe
+Montenegro,MNE,2020,0.832,Europe
+Montenegro,MNE,2021,0.84,Europe
+Montenegro,MNE,2022,0.844,Europe
+Morocco,MAR,1997,0.497,Africa
+Morocco,MAR,1998,0.505,Africa
+Morocco,MAR,1999,0.515,Africa
+Morocco,MAR,2000,0.525,Africa
+Morocco,MAR,2001,0.536,Africa
+Morocco,MAR,2002,0.547,Africa
+Morocco,MAR,2003,0.557,Africa
+Morocco,MAR,2004,0.564,Africa
+Morocco,MAR,2005,0.57,Africa
+Morocco,MAR,2006,0.576,Africa
+Morocco,MAR,2007,0.583,Africa
+Morocco,MAR,2008,0.59,Africa
+Morocco,MAR,2009,0.596,Africa
+Morocco,MAR,2010,0.604,Africa
+Morocco,MAR,2011,0.616,Africa
+Morocco,MAR,2012,0.626,Africa
+Morocco,MAR,2013,0.636,Africa
+Morocco,MAR,2014,0.645,Africa
+Morocco,MAR,2015,0.656,Africa
+Morocco,MAR,2016,0.662,Africa
+Morocco,MAR,2017,0.671,Africa
+Morocco,MAR,2018,0.677,Africa
+Morocco,MAR,2019,0.684,Africa
+Morocco,MAR,2020,0.683,Africa
+Morocco,MAR,2021,0.688,Africa
+Morocco,MAR,2022,0.698,Africa
+Myanmar,MMR,1997,0.383,Asia
+Myanmar,MMR,1998,0.39,Asia
+Myanmar,MMR,1999,0.398,Asia
+Myanmar,MMR,2000,0.407,Asia
+Myanmar,MMR,2001,0.415,Asia
+Myanmar,MMR,2002,0.425,Asia
+Myanmar,MMR,2003,0.435,Asia
+Myanmar,MMR,2004,0.445,Asia
+Myanmar,MMR,2005,0.456,Asia
+Myanmar,MMR,2006,0.466,Asia
+Myanmar,MMR,2007,0.475,Asia
+Myanmar,MMR,2008,0.461,Asia
+Myanmar,MMR,2009,0.497,Asia
+Myanmar,MMR,2010,0.506,Asia
+Myanmar,MMR,2011,0.517,Asia
+Myanmar,MMR,2012,0.526,Asia
+Myanmar,MMR,2013,0.538,Asia
+Myanmar,MMR,2014,0.548,Asia
+Myanmar,MMR,2015,0.557,Asia
+Myanmar,MMR,2016,0.567,Asia
+Myanmar,MMR,2017,0.58,Asia
+Myanmar,MMR,2018,0.595,Asia
+Myanmar,MMR,2019,0.608,Asia
+Myanmar,MMR,2020,0.615,Asia
+Myanmar,MMR,2021,0.599,Asia
+Myanmar,MMR,2022,0.608,Asia
+Nepal,NPL,1997,0.444,Asia
+Nepal,NPL,1998,0.449,Asia
+Nepal,NPL,1999,0.455,Asia
+Nepal,NPL,2000,0.461,Asia
+Nepal,NPL,2001,0.462,Asia
+Nepal,NPL,2002,0.469,Asia
+Nepal,NPL,2003,0.476,Asia
+Nepal,NPL,2004,0.484,Asia
+Nepal,NPL,2005,0.492,Asia
+Nepal,NPL,2006,0.503,Asia
+Nepal,NPL,2007,0.508,Asia
+Nepal,NPL,2008,0.518,Asia
+Nepal,NPL,2009,0.53,Asia
+Nepal,NPL,2010,0.543,Asia
+Nepal,NPL,2011,0.552,Asia
+Nepal,NPL,2012,0.557,Asia
+Nepal,NPL,2013,0.563,Asia
+Nepal,NPL,2014,0.567,Asia
+Nepal,NPL,2015,0.568,Asia
+Nepal,NPL,2016,0.574,Asia
+Nepal,NPL,2017,0.581,Asia
+Nepal,NPL,2018,0.588,Asia
+Nepal,NPL,2019,0.598,Asia
+Nepal,NPL,2020,0.593,Asia
+Nepal,NPL,2021,0.591,Asia
+Nepal,NPL,2022,0.601,Asia
+Netherlands,NLD,1997,0.883,Europe
+Netherlands,NLD,1998,0.884,Europe
+Netherlands,NLD,1999,0.886,Europe
+Netherlands,NLD,2000,0.892,Europe
+Netherlands,NLD,2001,0.893,Europe
+Netherlands,NLD,2002,0.89,Europe
+Netherlands,NLD,2003,0.893,Europe
+Netherlands,NLD,2004,0.896,Europe
+Netherlands,NLD,2005,0.899,Europe
+Netherlands,NLD,2006,0.905,Europe
+Netherlands,NLD,2007,0.911,Europe
+Netherlands,NLD,2008,0.911,Europe
+Netherlands,NLD,2009,0.912,Europe
+Netherlands,NLD,2010,0.917,Europe
+Netherlands,NLD,2011,0.927,Europe
+Netherlands,NLD,2012,0.927,Europe
+Netherlands,NLD,2013,0.929,Europe
+Netherlands,NLD,2014,0.931,Europe
+Netherlands,NLD,2015,0.932,Europe
+Netherlands,NLD,2016,0.933,Europe
+Netherlands,NLD,2017,0.936,Europe
+Netherlands,NLD,2018,0.939,Europe
+Netherlands,NLD,2019,0.941,Europe
+Netherlands,NLD,2020,0.938,Europe
+Netherlands,NLD,2021,0.941,Europe
+Netherlands,NLD,2022,0.946,Europe
+New Zealand,NZL,1997,0.871,Oceania
+New Zealand,NZL,1998,0.88,Oceania
+New Zealand,NZL,1999,0.885,Oceania
+New Zealand,NZL,2000,0.894,Oceania
+New Zealand,NZL,2001,0.9,Oceania
+New Zealand,NZL,2002,0.904,Oceania
+New Zealand,NZL,2003,0.908,Oceania
+New Zealand,NZL,2004,0.912,Oceania
+New Zealand,NZL,2005,0.917,Oceania
+New Zealand,NZL,2006,0.918,Oceania
+New Zealand,NZL,2007,0.919,Oceania
+New Zealand,NZL,2008,0.919,Oceania
+New Zealand,NZL,2009,0.922,Oceania
+New Zealand,NZL,2010,0.924,Oceania
+New Zealand,NZL,2011,0.924,Oceania
+New Zealand,NZL,2012,0.927,Oceania
+New Zealand,NZL,2013,0.93,Oceania
+New Zealand,NZL,2014,0.931,Oceania
+New Zealand,NZL,2015,0.933,Oceania
+New Zealand,NZL,2016,0.935,Oceania
+New Zealand,NZL,2017,0.935,Oceania
+New Zealand,NZL,2018,0.936,Oceania
+New Zealand,NZL,2019,0.937,Oceania
+New Zealand,NZL,2020,0.935,Oceania
+New Zealand,NZL,2021,0.936,Oceania
+New Zealand,NZL,2022,0.939,Oceania
+Nicaragua,NIC,1997,0.539,North America
+Nicaragua,NIC,1998,0.541,North America
+Nicaragua,NIC,1999,0.556,North America
+Nicaragua,NIC,2000,0.563,North America
+Nicaragua,NIC,2001,0.568,North America
+Nicaragua,NIC,2002,0.573,North America
+Nicaragua,NIC,2003,0.575,North America
+Nicaragua,NIC,2004,0.58,North America
+Nicaragua,NIC,2005,0.585,North America
+Nicaragua,NIC,2006,0.59,North America
+Nicaragua,NIC,2007,0.596,North America
+Nicaragua,NIC,2008,0.602,North America
+Nicaragua,NIC,2009,0.603,North America
+Nicaragua,NIC,2010,0.611,North America
+Nicaragua,NIC,2011,0.619,North America
+Nicaragua,NIC,2012,0.625,North America
+Nicaragua,NIC,2013,0.631,North America
+Nicaragua,NIC,2014,0.638,North America
+Nicaragua,NIC,2015,0.644,North America
+Nicaragua,NIC,2016,0.65,North America
+Nicaragua,NIC,2017,0.656,North America
+Nicaragua,NIC,2018,0.658,North America
+Nicaragua,NIC,2019,0.661,North America
+Nicaragua,NIC,2020,0.652,North America
+Nicaragua,NIC,2021,0.665,North America
+Nicaragua,NIC,2022,0.669,North America
+Nigeria,NGA,2003,0.449,Africa
+Nigeria,NGA,2004,0.461,Africa
+Nigeria,NGA,2005,0.468,Africa
+Nigeria,NGA,2006,0.475,Africa
+Nigeria,NGA,2007,0.479,Africa
+Nigeria,NGA,2008,0.482,Africa
+Nigeria,NGA,2009,0.486,Africa
+Nigeria,NGA,2010,0.488,Africa
+Nigeria,NGA,2011,0.494,Africa
+Nigeria,NGA,2012,0.499,Africa
+Nigeria,NGA,2013,0.504,Africa
+Nigeria,NGA,2014,0.513,Africa
+Nigeria,NGA,2015,0.52,Africa
+Nigeria,NGA,2016,0.526,Africa
+Nigeria,NGA,2017,0.528,Africa
+Nigeria,NGA,2018,0.53,Africa
+Nigeria,NGA,2019,0.537,Africa
+Nigeria,NGA,2020,0.539,Africa
+Nigeria,NGA,2021,0.542,Africa
+Nigeria,NGA,2022,0.548,Africa
+Norway,NOR,1997,0.893,Europe
+Norway,NOR,1998,0.903,Europe
+Norway,NOR,1999,0.907,Europe
+Norway,NOR,2000,0.914,Europe
+Norway,NOR,2001,0.913,Europe
+Norway,NOR,2002,0.915,Europe
+Norway,NOR,2003,0.923,Europe
+Norway,NOR,2004,0.929,Europe
+Norway,NOR,2005,0.93,Europe
+Norway,NOR,2006,0.934,Europe
+Norway,NOR,2007,0.936,Europe
+Norway,NOR,2008,0.935,Europe
+Norway,NOR,2009,0.935,Europe
+Norway,NOR,2010,0.938,Europe
+Norway,NOR,2011,0.94,Europe
+Norway,NOR,2012,0.941,Europe
+Norway,NOR,2013,0.945,Europe
+Norway,NOR,2014,0.949,Europe
+Norway,NOR,2015,0.952,Europe
+Norway,NOR,2016,0.956,Europe
+Norway,NOR,2017,0.959,Europe
+Norway,NOR,2018,0.96,Europe
+Norway,NOR,2019,0.961,Europe
+Norway,NOR,2020,0.963,Europe
+Norway,NOR,2021,0.964,Europe
+Norway,NOR,2022,0.966,Europe
+Pakistan,PAK,1997,0.419,Asia
+Pakistan,PAK,1998,0.423,Asia
+Pakistan,PAK,1999,0.429,Asia
+Pakistan,PAK,2000,0.434,Asia
+Pakistan,PAK,2001,0.441,Asia
+Pakistan,PAK,2002,0.447,Asia
+Pakistan,PAK,2003,0.455,Asia
+Pakistan,PAK,2004,0.468,Asia
+Pakistan,PAK,2005,0.477,Asia
+Pakistan,PAK,2006,0.485,Asia
+Pakistan,PAK,2007,0.49,Asia
+Pakistan,PAK,2008,0.489,Asia
+Pakistan,PAK,2009,0.493,Asia
+Pakistan,PAK,2010,0.496,Asia
+Pakistan,PAK,2011,0.5,Asia
+Pakistan,PAK,2012,0.504,Asia
+Pakistan,PAK,2013,0.51,Asia
+Pakistan,PAK,2014,0.519,Asia
+Pakistan,PAK,2015,0.525,Asia
+Pakistan,PAK,2016,0.533,Asia
+Pakistan,PAK,2017,0.534,Asia
+Pakistan,PAK,2018,0.535,Asia
+Pakistan,PAK,2019,0.537,Asia
+Pakistan,PAK,2020,0.536,Asia
+Pakistan,PAK,2021,0.537,Asia
+Pakistan,PAK,2022,0.54,Asia
+Panama,PAN,1997,0.703,North America
+Panama,PAN,1998,0.71,North America
+Panama,PAN,1999,0.716,North America
+Panama,PAN,2000,0.722,North America
+Panama,PAN,2001,0.727,North America
+Panama,PAN,2002,0.734,North America
+Panama,PAN,2003,0.738,North America
+Panama,PAN,2004,0.744,North America
+Panama,PAN,2005,0.75,North America
+Panama,PAN,2006,0.756,North America
+Panama,PAN,2007,0.765,North America
+Panama,PAN,2008,0.769,North America
+Panama,PAN,2009,0.771,North America
+Panama,PAN,2010,0.775,North America
+Panama,PAN,2011,0.781,North America
+Panama,PAN,2012,0.788,North America
+Panama,PAN,2013,0.794,North America
+Panama,PAN,2014,0.797,North America
+Panama,PAN,2015,0.802,North America
+Panama,PAN,2016,0.809,North America
+Panama,PAN,2017,0.814,North America
+Panama,PAN,2018,0.817,North America
+Panama,PAN,2019,0.82,North America
+Panama,PAN,2020,0.809,North America
+Panama,PAN,2021,0.813,North America
+Panama,PAN,2022,0.82,North America
+Papua New Guinea,PNG,1997,0.445,
+Papua New Guinea,PNG,1998,0.447,
+Papua New Guinea,PNG,1999,0.454,
+Papua New Guinea,PNG,2000,0.456,
+Papua New Guinea,PNG,2001,0.459,
+Papua New Guinea,PNG,2002,0.462,
+Papua New Guinea,PNG,2003,0.467,
+Papua New Guinea,PNG,2004,0.465,
+Papua New Guinea,PNG,2005,0.469,
+Papua New Guinea,PNG,2006,0.471,
+Papua New Guinea,PNG,2007,0.479,
+Papua New Guinea,PNG,2008,0.484,
+Papua New Guinea,PNG,2009,0.489,
+Papua New Guinea,PNG,2010,0.497,
+Papua New Guinea,PNG,2011,0.502,
+Papua New Guinea,PNG,2012,0.51,
+Papua New Guinea,PNG,2013,0.516,
+Papua New Guinea,PNG,2014,0.531,
+Papua New Guinea,PNG,2015,0.54,
+Papua New Guinea,PNG,2016,0.547,
+Papua New Guinea,PNG,2017,0.553,
+Papua New Guinea,PNG,2018,0.556,
+Papua New Guinea,PNG,2019,0.562,
+Papua New Guinea,PNG,2020,0.567,
+Papua New Guinea,PNG,2021,0.564,
+Papua New Guinea,PNG,2022,0.568,
+Paraguay,PRY,1997,0.646,South America
+Paraguay,PRY,1998,0.652,South America
+Paraguay,PRY,1999,0.656,South America
+Paraguay,PRY,2000,0.656,South America
+Paraguay,PRY,2001,0.662,South America
+Paraguay,PRY,2002,0.669,South America
+Paraguay,PRY,2003,0.663,South America
+Paraguay,PRY,2004,0.671,South America
+Paraguay,PRY,2005,0.673,South America
+Paraguay,PRY,2006,0.674,South America
+Paraguay,PRY,2007,0.681,South America
+Paraguay,PRY,2008,0.691,South America
+Paraguay,PRY,2009,0.691,South America
+Paraguay,PRY,2010,0.7,South America
+Paraguay,PRY,2011,0.711,South America
+Paraguay,PRY,2012,0.716,South America
+Paraguay,PRY,2013,0.729,South America
+Paraguay,PRY,2014,0.731,South America
+Paraguay,PRY,2015,0.738,South America
+Paraguay,PRY,2016,0.736,South America
+Paraguay,PRY,2017,0.739,South America
+Paraguay,PRY,2018,0.742,South America
+Paraguay,PRY,2019,0.746,South America
+Paraguay,PRY,2020,0.742,South America
+Paraguay,PRY,2021,0.73,South America
+Paraguay,PRY,2022,0.731,South America
+Peru,PER,1997,0.655,South America
+Peru,PER,1998,0.663,South America
+Peru,PER,1999,0.672,South America
+Peru,PER,2000,0.675,South America
+Peru,PER,2001,0.683,South America
+Peru,PER,2002,0.684,South America
+Peru,PER,2003,0.683,South America
+Peru,PER,2004,0.69,South America
+Peru,PER,2005,0.685,South America
+Peru,PER,2006,0.69,South America
+Peru,PER,2007,0.7,South America
+Peru,PER,2008,0.707,South America
+Peru,PER,2009,0.711,South America
+Peru,PER,2010,0.725,South America
+Peru,PER,2011,0.731,South America
+Peru,PER,2012,0.741,South America
+Peru,PER,2013,0.749,South America
+Peru,PER,2014,0.754,South America
+Peru,PER,2015,0.758,South America
+Peru,PER,2016,0.764,South America
+Peru,PER,2017,0.765,South America
+Peru,PER,2018,0.77,South America
+Peru,PER,2019,0.774,South America
+Peru,PER,2020,0.758,South America
+Peru,PER,2021,0.755,South America
+Peru,PER,2022,0.762,South America
+Philippines,PHL,1997,0.627,Asia
+Philippines,PHL,1998,0.632,Asia
+Philippines,PHL,1999,0.635,Asia
+Philippines,PHL,2000,0.635,Asia
+Philippines,PHL,2001,0.64,Asia
+Philippines,PHL,2002,0.646,Asia
+Philippines,PHL,2003,0.652,Asia
+Philippines,PHL,2004,0.658,Asia
+Philippines,PHL,2005,0.659,Asia
+Philippines,PHL,2006,0.659,Asia
+Philippines,PHL,2007,0.663,Asia
+Philippines,PHL,2008,0.666,Asia
+Philippines,PHL,2009,0.666,Asia
+Philippines,PHL,2010,0.673,Asia
+Philippines,PHL,2011,0.677,Asia
+Philippines,PHL,2012,0.684,Asia
+Philippines,PHL,2013,0.689,Asia
+Philippines,PHL,2014,0.693,Asia
+Philippines,PHL,2015,0.696,Asia
+Philippines,PHL,2016,0.696,Asia
+Philippines,PHL,2017,0.7,Asia
+Philippines,PHL,2018,0.706,Asia
+Philippines,PHL,2019,0.714,Asia
+Philippines,PHL,2020,0.705,Asia
+Philippines,PHL,2021,0.692,Asia
+Philippines,PHL,2022,0.71,Asia
+Poland,POL,1997,0.767,Europe
+Poland,POL,1998,0.777,Europe
+Poland,POL,1999,0.784,Europe
+Poland,POL,2000,0.794,Europe
+Poland,POL,2001,0.802,Europe
+Poland,POL,2002,0.809,Europe
+Poland,POL,2003,0.814,Europe
+Poland,POL,2004,0.812,Europe
+Poland,POL,2005,0.819,Europe
+Poland,POL,2006,0.824,Europe
+Poland,POL,2007,0.828,Europe
+Poland,POL,2008,0.834,Europe
+Poland,POL,2009,0.838,Europe
+Poland,POL,2010,0.845,Europe
+Poland,POL,2011,0.851,Europe
+Poland,POL,2012,0.855,Europe
+Poland,POL,2013,0.865,Europe
+Poland,POL,2014,0.867,Europe
+Poland,POL,2015,0.869,Europe
+Poland,POL,2016,0.872,Europe
+Poland,POL,2017,0.874,Europe
+Poland,POL,2018,0.876,Europe
+Poland,POL,2019,0.88,Europe
+Poland,POL,2020,0.874,Europe
+Poland,POL,2021,0.876,Europe
+Poland,POL,2022,0.881,Europe
+Portugal,PRT,1997,0.784,Europe
+Portugal,PRT,1998,0.791,Europe
+Portugal,PRT,1999,0.788,Europe
+Portugal,PRT,2000,0.793,Europe
+Portugal,PRT,2001,0.797,Europe
+Portugal,PRT,2002,0.8,Europe
+Portugal,PRT,2003,0.803,Europe
+Portugal,PRT,2004,0.811,Europe
+Portugal,PRT,2005,0.813,Europe
+Portugal,PRT,2006,0.819,Europe
+Portugal,PRT,2007,0.822,Europe
+Portugal,PRT,2008,0.825,Europe
+Portugal,PRT,2009,0.827,Europe
+Portugal,PRT,2010,0.831,Europe
+Portugal,PRT,2011,0.836,Europe
+Portugal,PRT,2012,0.837,Europe
+Portugal,PRT,2013,0.842,Europe
+Portugal,PRT,2014,0.847,Europe
+Portugal,PRT,2015,0.85,Europe
+Portugal,PRT,2016,0.851,Europe
+Portugal,PRT,2017,0.857,Europe
+Portugal,PRT,2018,0.858,Europe
+Portugal,PRT,2019,0.864,Europe
+Portugal,PRT,2020,0.861,Europe
+Portugal,PRT,2021,0.865,Europe
+Portugal,PRT,2022,0.874,Europe
+Romania,ROU,1997,0.701,Europe
+Romania,ROU,1998,0.706,Europe
+Romania,ROU,1999,0.714,Europe
+Romania,ROU,2000,0.721,Europe
+Romania,ROU,2001,0.727,Europe
+Romania,ROU,2002,0.734,Europe
+Romania,ROU,2003,0.733,Europe
+Romania,ROU,2004,0.74,Europe
+Romania,ROU,2005,0.75,Europe
+Romania,ROU,2006,0.768,Europe
+Romania,ROU,2007,0.78,Europe
+Romania,ROU,2008,0.807,Europe
+Romania,ROU,2009,0.819,Europe
+Romania,ROU,2010,0.813,Europe
+Romania,ROU,2011,0.813,Europe
+Romania,ROU,2012,0.807,Europe
+Romania,ROU,2013,0.811,Europe
+Romania,ROU,2014,0.811,Europe
+Romania,ROU,2015,0.813,Europe
+Romania,ROU,2016,0.815,Europe
+Romania,ROU,2017,0.823,Europe
+Romania,ROU,2018,0.829,Europe
+Romania,ROU,2019,0.834,Europe
+Romania,ROU,2020,0.828,Europe
+Romania,ROU,2021,0.825,Europe
+Romania,ROU,2022,0.827,Europe
+Russia,RUS,1997,0.715,Europe
+Russia,RUS,1998,0.719,Europe
+Russia,RUS,1999,0.722,Europe
+Russia,RUS,2000,0.733,Europe
+Russia,RUS,2001,0.743,Europe
+Russia,RUS,2002,0.749,Europe
+Russia,RUS,2003,0.757,Europe
+Russia,RUS,2004,0.764,Europe
+Russia,RUS,2005,0.767,Europe
+Russia,RUS,2006,0.778,Europe
+Russia,RUS,2007,0.789,Europe
+Russia,RUS,2008,0.793,Europe
+Russia,RUS,2009,0.791,Europe
+Russia,RUS,2010,0.797,Europe
+Russia,RUS,2011,0.807,Europe
+Russia,RUS,2012,0.811,Europe
+Russia,RUS,2013,0.816,Europe
+Russia,RUS,2014,0.818,Europe
+Russia,RUS,2015,0.823,Europe
+Russia,RUS,2016,0.826,Europe
+Russia,RUS,2017,0.827,Europe
+Russia,RUS,2018,0.836,Europe
+Russia,RUS,2019,0.839,Europe
+Russia,RUS,2020,0.826,Europe
+Russia,RUS,2021,0.818,Europe
+Russia,RUS,2022,0.821,Europe
+Senegal,SEN,1997,0.377,Africa
+Senegal,SEN,1998,0.379,Africa
+Senegal,SEN,1999,0.382,Africa
+Senegal,SEN,2000,0.388,Africa
+Senegal,SEN,2001,0.395,Africa
+Senegal,SEN,2002,0.399,Africa
+Senegal,SEN,2003,0.407,Africa
+Senegal,SEN,2004,0.414,Africa
+Senegal,SEN,2005,0.421,Africa
+Senegal,SEN,2006,0.429,Africa
+Senegal,SEN,2007,0.442,Africa
+Senegal,SEN,2008,0.454,Africa
+Senegal,SEN,2009,0.461,Africa
+Senegal,SEN,2010,0.47,Africa
+Senegal,SEN,2011,0.483,Africa
+Senegal,SEN,2012,0.491,Africa
+Senegal,SEN,2013,0.497,Africa
+Senegal,SEN,2014,0.501,Africa
+Senegal,SEN,2015,0.501,Africa
+Senegal,SEN,2016,0.51,Africa
+Senegal,SEN,2017,0.511,Africa
+Senegal,SEN,2018,0.515,Africa
+Senegal,SEN,2019,0.514,Africa
+Senegal,SEN,2020,0.514,Africa
+Senegal,SEN,2021,0.512,Africa
+Senegal,SEN,2022,0.517,Africa
+Serbia,SRB,1997,0.685,Europe
+Serbia,SRB,1998,0.686,Europe
+Serbia,SRB,1999,0.677,Europe
+Serbia,SRB,2000,0.689,Europe
+Serbia,SRB,2001,0.699,Europe
+Serbia,SRB,2002,0.701,Europe
+Serbia,SRB,2003,0.71,Europe
+Serbia,SRB,2004,0.721,Europe
+Serbia,SRB,2005,0.732,Europe
+Serbia,SRB,2006,0.743,Europe
+Serbia,SRB,2007,0.753,Europe
+Serbia,SRB,2008,0.764,Europe
+Serbia,SRB,2009,0.766,Europe
+Serbia,SRB,2010,0.768,Europe
+Serbia,SRB,2011,0.773,Europe
+Serbia,SRB,2012,0.78,Europe
+Serbia,SRB,2013,0.785,Europe
+Serbia,SRB,2014,0.787,Europe
+Serbia,SRB,2015,0.794,Europe
+Serbia,SRB,2016,0.8,Europe
+Serbia,SRB,2017,0.802,Europe
+Serbia,SRB,2018,0.808,Europe
+Serbia,SRB,2019,0.812,Europe
+Serbia,SRB,2020,0.806,Europe
+Serbia,SRB,2021,0.804,Europe
+Serbia,SRB,2022,0.805,Europe
+Singapore,SGP,1997,0.841,Asia
+Singapore,SGP,1998,0.846,Asia
+Singapore,SGP,1999,0.854,Asia
+Singapore,SGP,2000,0.863,Asia
+Singapore,SGP,2001,0.867,Asia
+Singapore,SGP,2002,0.872,Asia
+Singapore,SGP,2003,0.878,Asia
+Singapore,SGP,2004,0.886,Asia
+Singapore,SGP,2005,0.896,Asia
+Singapore,SGP,2006,0.901,Asia
+Singapore,SGP,2007,0.906,Asia
+Singapore,SGP,2008,0.91,Asia
+Singapore,SGP,2009,0.91,Asia
+Singapore,SGP,2010,0.921,Asia
+Singapore,SGP,2011,0.924,Asia
+Singapore,SGP,2012,0.926,Asia
+Singapore,SGP,2013,0.93,Asia
+Singapore,SGP,2014,0.932,Asia
+Singapore,SGP,2015,0.935,Asia
+Singapore,SGP,2016,0.937,Asia
+Singapore,SGP,2017,0.938,Asia
+Singapore,SGP,2018,0.942,Asia
+Singapore,SGP,2019,0.945,Asia
+Singapore,SGP,2020,0.942,Asia
+Singapore,SGP,2021,0.942,Asia
+Singapore,SGP,2022,0.949,Asia
+Slovakia,SVK,1997,0.735,Europe
+Slovakia,SVK,1998,0.746,Europe
+Slovakia,SVK,1999,0.752,Europe
+Slovakia,SVK,2000,0.761,Europe
+Slovakia,SVK,2001,0.768,Europe
+Slovakia,SVK,2002,0.777,Europe
+Slovakia,SVK,2003,0.783,Europe
+Slovakia,SVK,2004,0.793,Europe
+Slovakia,SVK,2005,0.802,Europe
+Slovakia,SVK,2006,0.812,Europe
+Slovakia,SVK,2007,0.822,Europe
+Slovakia,SVK,2008,0.831,Europe
+Slovakia,SVK,2009,0.834,Europe
+Slovakia,SVK,2010,0.841,Europe
+Slovakia,SVK,2011,0.846,Europe
+Slovakia,SVK,2012,0.846,Europe
+Slovakia,SVK,2013,0.849,Europe
+Slovakia,SVK,2014,0.851,Europe
+Slovakia,SVK,2015,0.852,Europe
+Slovakia,SVK,2016,0.855,Europe
+Slovakia,SVK,2017,0.857,Europe
+Slovakia,SVK,2018,0.86,Europe
+Slovakia,SVK,2019,0.863,Europe
+Slovakia,SVK,2020,0.86,Europe
+Slovakia,SVK,2021,0.852,Europe
+Slovakia,SVK,2022,0.855,Europe
+Slovenia,SVN,1997,0.782,Europe
+Slovenia,SVN,1998,0.794,Europe
+Slovenia,SVN,1999,0.812,Europe
+Slovenia,SVN,2000,0.823,Europe
+Slovenia,SVN,2001,0.838,Europe
+Slovenia,SVN,2002,0.849,Europe
+Slovenia,SVN,2003,0.858,Europe
+Slovenia,SVN,2004,0.864,Europe
+Slovenia,SVN,2005,0.869,Europe
+Slovenia,SVN,2006,0.878,Europe
+Slovenia,SVN,2007,0.881,Europe
+Slovenia,SVN,2008,0.889,Europe
+Slovenia,SVN,2009,0.886,Europe
+Slovenia,SVN,2010,0.89,Europe
+Slovenia,SVN,2011,0.892,Europe
+Slovenia,SVN,2012,0.892,Europe
+Slovenia,SVN,2013,0.901,Europe
+Slovenia,SVN,2014,0.903,Europe
+Slovenia,SVN,2015,0.903,Europe
+Slovenia,SVN,2016,0.909,Europe
+Slovenia,SVN,2017,0.912,Europe
+Slovenia,SVN,2018,0.916,Europe
+Slovenia,SVN,2019,0.918,Europe
+Slovenia,SVN,2020,0.91,Europe
+Slovenia,SVN,2021,0.916,Europe
+Slovenia,SVN,2022,0.926,Europe
+South Africa,ZAF,1997,0.65,Africa
+South Africa,ZAF,1998,0.643,Africa
+South Africa,ZAF,1999,0.638,Africa
+South Africa,ZAF,2000,0.633,Africa
+South Africa,ZAF,2001,0.629,Africa
+South Africa,ZAF,2002,0.633,Africa
+South Africa,ZAF,2003,0.629,Africa
+South Africa,ZAF,2004,0.63,Africa
+South Africa,ZAF,2005,0.632,Africa
+South Africa,ZAF,2006,0.637,Africa
+South Africa,ZAF,2007,0.644,Africa
+South Africa,ZAF,2008,0.653,Africa
+South Africa,ZAF,2009,0.665,Africa
+South Africa,ZAF,2010,0.675,Africa
+South Africa,ZAF,2011,0.686,Africa
+South Africa,ZAF,2012,0.696,Africa
+South Africa,ZAF,2013,0.705,Africa
+South Africa,ZAF,2014,0.714,Africa
+South Africa,ZAF,2015,0.721,Africa
+South Africa,ZAF,2016,0.711,Africa
+South Africa,ZAF,2017,0.725,Africa
+South Africa,ZAF,2018,0.731,Africa
+South Africa,ZAF,2019,0.741,Africa
+South Africa,ZAF,2020,0.722,Africa
+South Africa,ZAF,2021,0.721,Africa
+South Africa,ZAF,2022,0.717,Africa
+South Korea,KOR,1997,0.804,Asia
+South Korea,KOR,1998,0.802,Asia
+South Korea,KOR,1999,0.814,Asia
+South Korea,KOR,2000,0.824,Asia
+South Korea,KOR,2001,0.832,Asia
+South Korea,KOR,2002,0.841,Asia
+South Korea,KOR,2003,0.845,Asia
+South Korea,KOR,2004,0.853,Asia
+South Korea,KOR,2005,0.861,Asia
+South Korea,KOR,2006,0.866,Asia
+South Korea,KOR,2007,0.871,Asia
+South Korea,KOR,2008,0.874,Asia
+South Korea,KOR,2009,0.876,Asia
+South Korea,KOR,2010,0.89,Asia
+South Korea,KOR,2011,0.895,Asia
+South Korea,KOR,2012,0.897,Asia
+South Korea,KOR,2013,0.902,Asia
+South Korea,KOR,2014,0.906,Asia
+South Korea,KOR,2015,0.908,Asia
+South Korea,KOR,2016,0.912,Asia
+South Korea,KOR,2017,0.915,Asia
+South Korea,KOR,2018,0.918,Asia
+South Korea,KOR,2019,0.922,Asia
+South Korea,KOR,2020,0.922,Asia
+South Korea,KOR,2021,0.926,Asia
+South Korea,KOR,2022,0.929,Asia
+Spain,ESP,1997,0.811,Europe
+Spain,ESP,1998,0.815,Europe
+Spain,ESP,1999,0.819,Europe
+Spain,ESP,2000,0.828,Europe
+Spain,ESP,2001,0.833,Europe
+Spain,ESP,2002,0.838,Europe
+Spain,ESP,2003,0.84,Europe
+Spain,ESP,2004,0.846,Europe
+Spain,ESP,2005,0.851,Europe
+Spain,ESP,2006,0.856,Europe
+Spain,ESP,2007,0.857,Europe
+Spain,ESP,2008,0.858,Europe
+Spain,ESP,2009,0.86,Europe
+Spain,ESP,2010,0.868,Europe
+Spain,ESP,2011,0.873,Europe
+Spain,ESP,2012,0.875,Europe
+Spain,ESP,2013,0.88,Europe
+Spain,ESP,2014,0.884,Europe
+Spain,ESP,2015,0.889,Europe
+Spain,ESP,2016,0.894,Europe
+Spain,ESP,2017,0.896,Europe
+Spain,ESP,2018,0.899,Europe
+Spain,ESP,2019,0.904,Europe
+Spain,ESP,2020,0.894,Europe
+Spain,ESP,2021,0.904,Europe
+Spain,ESP,2022,0.911,Europe
+Suriname,SUR,2004,0.667,
+Suriname,SUR,2005,0.673,
+Suriname,SUR,2006,0.678,
+Suriname,SUR,2007,0.684,
+Suriname,SUR,2008,0.689,
+Suriname,SUR,2009,0.693,
+Suriname,SUR,2010,0.696,
+Suriname,SUR,2011,0.697,
+Suriname,SUR,2012,0.698,
+Suriname,SUR,2013,0.7,
+Suriname,SUR,2014,0.701,
+Suriname,SUR,2015,0.707,
+Suriname,SUR,2016,0.709,
+Suriname,SUR,2017,0.71,
+Suriname,SUR,2018,0.714,
+Suriname,SUR,2019,0.71,
+Suriname,SUR,2020,0.702,
+Suriname,SUR,2021,0.689,
+Suriname,SUR,2022,0.69,
+Sweden,SWE,1997,0.878,Europe
+Sweden,SWE,1998,0.891,Europe
+Sweden,SWE,1999,0.897,Europe
+Sweden,SWE,2000,0.903,Europe
+Sweden,SWE,2001,0.906,Europe
+Sweden,SWE,2002,0.909,Europe
+Sweden,SWE,2003,0.914,Europe
+Sweden,SWE,2004,0.901,Europe
+Sweden,SWE,2005,0.903,Europe
+Sweden,SWE,2006,0.907,Europe
+Sweden,SWE,2007,0.909,Europe
+Sweden,SWE,2008,0.905,Europe
+Sweden,SWE,2009,0.904,Europe
+Sweden,SWE,2010,0.91,Europe
+Sweden,SWE,2011,0.912,Europe
+Sweden,SWE,2012,0.912,Europe
+Sweden,SWE,2013,0.932,Europe
+Sweden,SWE,2014,0.935,Europe
+Sweden,SWE,2015,0.937,Europe
+Sweden,SWE,2016,0.939,Europe
+Sweden,SWE,2017,0.941,Europe
+Sweden,SWE,2018,0.943,Europe
+Sweden,SWE,2019,0.947,Europe
+Sweden,SWE,2020,0.944,Europe
+Sweden,SWE,2021,0.949,Europe
+Sweden,SWE,2022,0.952,Europe
+Switzerland,CHE,1997,0.872,Europe
+Switzerland,CHE,1998,0.878,Europe
+Switzerland,CHE,1999,0.881,Europe
+Switzerland,CHE,2000,0.885,Europe
+Switzerland,CHE,2001,0.888,Europe
+Switzerland,CHE,2002,0.888,Europe
+Switzerland,CHE,2003,0.893,Europe
+Switzerland,CHE,2004,0.898,Europe
+Switzerland,CHE,2005,0.903,Europe
+Switzerland,CHE,2006,0.913,Europe
+Switzerland,CHE,2007,0.92,Europe
+Switzerland,CHE,2008,0.926,Europe
+Switzerland,CHE,2009,0.935,Europe
+Switzerland,CHE,2010,0.94,Europe
+Switzerland,CHE,2011,0.94,Europe
+Switzerland,CHE,2012,0.943,Europe
+Switzerland,CHE,2013,0.947,Europe
+Switzerland,CHE,2014,0.951,Europe
+Switzerland,CHE,2015,0.952,Europe
+Switzerland,CHE,2016,0.954,Europe
+Switzerland,CHE,2017,0.955,Europe
+Switzerland,CHE,2018,0.957,Europe
+Switzerland,CHE,2019,0.96,Europe
+Switzerland,CHE,2020,0.957,Europe
+Switzerland,CHE,2021,0.965,Europe
+Switzerland,CHE,2022,0.967,Europe
+Syria,SYR,1997,0.586,
+Syria,SYR,1998,0.587,
+Syria,SYR,1999,0.586,
+Syria,SYR,2000,0.587,
+Syria,SYR,2001,0.595,
+Syria,SYR,2002,0.602,
+Syria,SYR,2003,0.613,
+Syria,SYR,2004,0.626,
+Syria,SYR,2005,0.639,
+Syria,SYR,2006,0.65,
+Syria,SYR,2007,0.657,
+Syria,SYR,2008,0.651,
+Syria,SYR,2009,0.66,
+Syria,SYR,2010,0.661,
+Syria,SYR,2011,0.687,
+Syria,SYR,2012,0.638,
+Syria,SYR,2013,0.558,
+Syria,SYR,2014,0.544,
+Syria,SYR,2015,0.552,
+Syria,SYR,2016,0.551,
+Syria,SYR,2017,0.558,
+Syria,SYR,2018,0.563,
+Syria,SYR,2019,0.564,
+Syria,SYR,2020,0.561,
+Syria,SYR,2021,0.558,
+Syria,SYR,2022,0.557,
+Tajikistan,TJK,1997,0.524,Asia
+Tajikistan,TJK,1998,0.532,Asia
+Tajikistan,TJK,1999,0.539,Asia
+Tajikistan,TJK,2000,0.548,Asia
+Tajikistan,TJK,2001,0.558,Asia
+Tajikistan,TJK,2002,0.569,Asia
+Tajikistan,TJK,2003,0.581,Asia
+Tajikistan,TJK,2004,0.591,Asia
+Tajikistan,TJK,2005,0.606,Asia
+Tajikistan,TJK,2006,0.615,Asia
+Tajikistan,TJK,2007,0.62,Asia
+Tajikistan,TJK,2008,0.628,Asia
+Tajikistan,TJK,2009,0.629,Asia
+Tajikistan,TJK,2010,0.631,Asia
+Tajikistan,TJK,2011,0.636,Asia
+Tajikistan,TJK,2012,0.641,Asia
+Tajikistan,TJK,2013,0.647,Asia
+Tajikistan,TJK,2014,0.649,Asia
+Tajikistan,TJK,2015,0.651,Asia
+Tajikistan,TJK,2016,0.655,Asia
+Tajikistan,TJK,2017,0.659,Asia
+Tajikistan,TJK,2018,0.664,Asia
+Tajikistan,TJK,2019,0.668,Asia
+Tajikistan,TJK,2020,0.656,Asia
+Tajikistan,TJK,2021,0.677,Asia
+Tajikistan,TJK,2022,0.679,Asia
+Thailand,THA,1997,0.639,Asia
+Thailand,THA,1998,0.643,Asia
+Thailand,THA,1999,0.653,Asia
+Thailand,THA,2000,0.663,Asia
+Thailand,THA,2001,0.677,Asia
+Thailand,THA,2002,0.688,Asia
+Thailand,THA,2003,0.698,Asia
+Thailand,THA,2004,0.707,Asia
+Thailand,THA,2005,0.715,Asia
+Thailand,THA,2006,0.721,Asia
+Thailand,THA,2007,0.732,Asia
+Thailand,THA,2008,0.735,Asia
+Thailand,THA,2009,0.738,Asia
+Thailand,THA,2010,0.743,Asia
+Thailand,THA,2011,0.749,Asia
+Thailand,THA,2012,0.752,Asia
+Thailand,THA,2013,0.754,Asia
+Thailand,THA,2014,0.785,Asia
+Thailand,THA,2015,0.789,Asia
+Thailand,THA,2016,0.793,Asia
+Thailand,THA,2017,0.795,Asia
+Thailand,THA,2018,0.796,Asia
+Thailand,THA,2019,0.801,Asia
+Thailand,THA,2020,0.8,Asia
+Thailand,THA,2021,0.797,Asia
+Thailand,THA,2022,0.803,Asia
+Trinidad and Tobago,TTO,1997,0.686,
+Trinidad and Tobago,TTO,1998,0.696,
+Trinidad and Tobago,TTO,1999,0.699,
+Trinidad and Tobago,TTO,2000,0.708,
+Trinidad and Tobago,TTO,2001,0.716,
+Trinidad and Tobago,TTO,2002,0.727,
+Trinidad and Tobago,TTO,2003,0.733,
+Trinidad and Tobago,TTO,2004,0.747,
+Trinidad and Tobago,TTO,2005,0.753,
+Trinidad and Tobago,TTO,2006,0.762,
+Trinidad and Tobago,TTO,2007,0.768,
+Trinidad and Tobago,TTO,2008,0.771,
+Trinidad and Tobago,TTO,2009,0.782,
+Trinidad and Tobago,TTO,2010,0.785,
+Trinidad and Tobago,TTO,2011,0.788,
+Trinidad and Tobago,TTO,2012,0.794,
+Trinidad and Tobago,TTO,2013,0.801,
+Trinidad and Tobago,TTO,2014,0.806,
+Trinidad and Tobago,TTO,2015,0.812,
+Trinidad and Tobago,TTO,2016,0.81,
+Trinidad and Tobago,TTO,2017,0.811,
+Trinidad and Tobago,TTO,2018,0.809,
+Trinidad and Tobago,TTO,2019,0.813,
+Trinidad and Tobago,TTO,2020,0.815,
+Trinidad and Tobago,TTO,2021,0.804,
+Trinidad and Tobago,TTO,2022,0.814,
+Tunisia,TUN,1997,0.621,Africa
+Tunisia,TUN,1998,0.633,Africa
+Tunisia,TUN,1999,0.644,Africa
+Tunisia,TUN,2000,0.651,Africa
+Tunisia,TUN,2001,0.658,Africa
+Tunisia,TUN,2002,0.663,Africa
+Tunisia,TUN,2003,0.669,Africa
+Tunisia,TUN,2004,0.679,Africa
+Tunisia,TUN,2005,0.686,Africa
+Tunisia,TUN,2006,0.693,Africa
+Tunisia,TUN,2007,0.7,Africa
+Tunisia,TUN,2008,0.705,Africa
+Tunisia,TUN,2009,0.709,Africa
+Tunisia,TUN,2010,0.713,Africa
+Tunisia,TUN,2011,0.715,Africa
+Tunisia,TUN,2012,0.716,Africa
+Tunisia,TUN,2013,0.719,Africa
+Tunisia,TUN,2014,0.721,Africa
+Tunisia,TUN,2015,0.724,Africa
+Tunisia,TUN,2016,0.728,Africa
+Tunisia,TUN,2017,0.732,Africa
+Tunisia,TUN,2018,0.737,Africa
+Tunisia,TUN,2019,0.74,Africa
+Tunisia,TUN,2020,0.734,Africa
+Tunisia,TUN,2021,0.729,Africa
+Tunisia,TUN,2022,0.732,Africa
+Turkey,TUR,1997,0.638,Asia
+Turkey,TUR,1998,0.648,Asia
+Turkey,TUR,1999,0.652,Asia
+Turkey,TUR,2000,0.669,Asia
+Turkey,TUR,2001,0.675,Asia
+Turkey,TUR,2002,0.685,Asia
+Turkey,TUR,2003,0.691,Asia
+Turkey,TUR,2004,0.696,Asia
+Turkey,TUR,2005,0.701,Asia
+Turkey,TUR,2006,0.711,Asia
+Turkey,TUR,2007,0.718,Asia
+Turkey,TUR,2008,0.721,Asia
+Turkey,TUR,2009,0.728,Asia
+Turkey,TUR,2010,0.75,Asia
+Turkey,TUR,2011,0.763,Asia
+Turkey,TUR,2012,0.772,Asia
+Turkey,TUR,2013,0.802,Asia
+Turkey,TUR,2014,0.812,Asia
+Turkey,TUR,2015,0.821,Asia
+Turkey,TUR,2016,0.826,Asia
+Turkey,TUR,2017,0.833,Asia
+Turkey,TUR,2018,0.838,Asia
+Turkey,TUR,2019,0.842,Asia
+Turkey,TUR,2020,0.835,Asia
+Turkey,TUR,2021,0.841,Asia
+Turkey,TUR,2022,0.855,Asia
+Turkmenistan,TKM,2005,0.652,Asia
+Turkmenistan,TKM,2006,0.661,Asia
+Turkmenistan,TKM,2007,0.672,Asia
+Turkmenistan,TKM,2008,0.682,Asia
+Turkmenistan,TKM,2009,0.69,Asia
+Turkmenistan,TKM,2010,0.699,Asia
+Turkmenistan,TKM,2011,0.708,Asia
+Turkmenistan,TKM,2012,0.714,Asia
+Turkmenistan,TKM,2013,0.716,Asia
+Turkmenistan,TKM,2014,0.719,Asia
+Turkmenistan,TKM,2015,0.725,Asia
+Turkmenistan,TKM,2016,0.729,Asia
+Turkmenistan,TKM,2017,0.729,Asia
+Turkmenistan,TKM,2018,0.73,Asia
+Turkmenistan,TKM,2019,0.732,Asia
+Turkmenistan,TKM,2020,0.731,Asia
+Turkmenistan,TKM,2021,0.74,Asia
+Turkmenistan,TKM,2022,0.744,Asia
+Ukraine,UKR,1997,0.688,Europe
+Ukraine,UKR,1998,0.694,Europe
+Ukraine,UKR,1999,0.696,Europe
+Ukraine,UKR,2000,0.698,Europe
+Ukraine,UKR,2001,0.713,Europe
+Ukraine,UKR,2002,0.721,Europe
+Ukraine,UKR,2003,0.73,Europe
+Ukraine,UKR,2004,0.739,Europe
+Ukraine,UKR,2005,0.743,Europe
+Ukraine,UKR,2006,0.752,Europe
+Ukraine,UKR,2007,0.759,Europe
+Ukraine,UKR,2008,0.763,Europe
+Ukraine,UKR,2009,0.761,Europe
+Ukraine,UKR,2010,0.766,Europe
+Ukraine,UKR,2011,0.772,Europe
+Ukraine,UKR,2012,0.774,Europe
+Ukraine,UKR,2013,0.774,Europe
+Ukraine,UKR,2014,0.774,Europe
+Ukraine,UKR,2015,0.764,Europe
+Ukraine,UKR,2016,0.767,Europe
+Ukraine,UKR,2017,0.771,Europe
+Ukraine,UKR,2018,0.771,Europe
+Ukraine,UKR,2019,0.774,Europe
+Ukraine,UKR,2020,0.762,Europe
+Ukraine,UKR,2021,0.755,Europe
+Ukraine,UKR,2022,0.734,Europe
+United Arab Emirates,ARE,1997,0.768,Asia
+United Arab Emirates,ARE,1998,0.774,Asia
+United Arab Emirates,ARE,1999,0.781,Asia
+United Arab Emirates,ARE,2000,0.79,Asia
+United Arab Emirates,ARE,2001,0.794,Asia
+United Arab Emirates,ARE,2002,0.798,Asia
+United Arab Emirates,ARE,2003,0.807,Asia
+United Arab Emirates,ARE,2004,0.811,Asia
+United Arab Emirates,ARE,2005,0.815,Asia
+United Arab Emirates,ARE,2006,0.82,Asia
+United Arab Emirates,ARE,2007,0.825,Asia
+United Arab Emirates,ARE,2008,0.827,Asia
+United Arab Emirates,ARE,2009,0.825,Asia
+United Arab Emirates,ARE,2010,0.828,Asia
+United Arab Emirates,ARE,2011,0.835,Asia
+United Arab Emirates,ARE,2012,0.841,Asia
+United Arab Emirates,ARE,2013,0.847,Asia
+United Arab Emirates,ARE,2014,0.853,Asia
+United Arab Emirates,ARE,2015,0.86,Asia
+United Arab Emirates,ARE,2016,0.866,Asia
+United Arab Emirates,ARE,2017,0.898,Asia
+United Arab Emirates,ARE,2018,0.917,Asia
+United Arab Emirates,ARE,2019,0.933,Asia
+United Arab Emirates,ARE,2020,0.93,Asia
+United Arab Emirates,ARE,2021,0.931,Asia
+United Arab Emirates,ARE,2022,0.937,Asia
+United States,USA,1997,0.889,North America
+United States,USA,1998,0.891,North America
+United States,USA,1999,0.891,North America
+United States,USA,2000,0.894,North America
+United States,USA,2001,0.895,North America
+United States,USA,2002,0.896,North America
+United States,USA,2003,0.898,North America
+United States,USA,2004,0.902,North America
+United States,USA,2005,0.904,North America
+United States,USA,2006,0.908,North America
+United States,USA,2007,0.911,North America
+United States,USA,2008,0.912,North America
+United States,USA,2009,0.913,North America
+United States,USA,2010,0.916,North America
+United States,USA,2011,0.918,North America
+United States,USA,2012,0.92,North America
+United States,USA,2013,0.922,North America
+United States,USA,2014,0.923,North America
+United States,USA,2015,0.924,North America
+United States,USA,2016,0.926,North America
+United States,USA,2017,0.928,North America
+United States,USA,2018,0.93,North America
+United States,USA,2019,0.933,North America
+United States,USA,2020,0.923,North America
+United States,USA,2021,0.921,North America
+United States,USA,2022,0.927,North America
+Uruguay,URY,1997,0.738,South America
+Uruguay,URY,1998,0.747,South America
+Uruguay,URY,1999,0.751,South America
+Uruguay,URY,2000,0.754,South America
+Uruguay,URY,2001,0.761,South America
+Uruguay,URY,2002,0.765,South America
+Uruguay,URY,2003,0.771,South America
+Uruguay,URY,2004,0.77,South America
+Uruguay,URY,2005,0.768,South America
+Uruguay,URY,2006,0.767,South America
+Uruguay,URY,2007,0.769,South America
+Uruguay,URY,2008,0.773,South America
+Uruguay,URY,2009,0.776,South America
+Uruguay,URY,2010,0.785,South America
+Uruguay,URY,2011,0.791,South America
+Uruguay,URY,2012,0.794,South America
+Uruguay,URY,2013,0.802,South America
+Uruguay,URY,2014,0.805,South America
+Uruguay,URY,2015,0.807,South America
+Uruguay,URY,2016,0.811,South America
+Uruguay,URY,2017,0.815,South America
+Uruguay,URY,2018,0.815,South America
+Uruguay,URY,2019,0.818,South America
+Uruguay,URY,2020,0.82,South America
+Uruguay,URY,2021,0.814,South America
+Uruguay,URY,2022,0.83,South America
+Uzbekistan,UZB,2000,0.603,Asia
+Uzbekistan,UZB,2001,0.61,Asia
+Uzbekistan,UZB,2002,0.617,Asia
+Uzbekistan,UZB,2003,0.624,Asia
+Uzbekistan,UZB,2004,0.631,Asia
+Uzbekistan,UZB,2005,0.636,Asia
+Uzbekistan,UZB,2006,0.642,Asia
+Uzbekistan,UZB,2007,0.655,Asia
+Uzbekistan,UZB,2008,0.66,Asia
+Uzbekistan,UZB,2009,0.666,Asia
+Uzbekistan,UZB,2010,0.675,Asia
+Uzbekistan,UZB,2011,0.682,Asia
+Uzbekistan,UZB,2012,0.688,Asia
+Uzbekistan,UZB,2013,0.693,Asia
+Uzbekistan,UZB,2014,0.698,Asia
+Uzbekistan,UZB,2015,0.701,Asia
+Uzbekistan,UZB,2016,0.709,Asia
+Uzbekistan,UZB,2017,0.714,Asia
+Uzbekistan,UZB,2018,0.719,Asia
+Uzbekistan,UZB,2019,0.725,Asia
+Uzbekistan,UZB,2020,0.716,Asia
+Uzbekistan,UZB,2021,0.721,Asia
+Uzbekistan,UZB,2022,0.727,Asia
+Venezuela,VEN,1997,0.694,
+Venezuela,VEN,1998,0.697,
+Venezuela,VEN,1999,0.695,
+Venezuela,VEN,2000,0.699,
+Venezuela,VEN,2001,0.704,
+Venezuela,VEN,2002,0.711,
+Venezuela,VEN,2003,0.702,
+Venezuela,VEN,2004,0.713,
+Venezuela,VEN,2005,0.722,
+Venezuela,VEN,2006,0.73,
+Venezuela,VEN,2007,0.747,
+Venezuela,VEN,2008,0.754,
+Venezuela,VEN,2009,0.754,
+Venezuela,VEN,2010,0.759,
+Venezuela,VEN,2011,0.766,
+Venezuela,VEN,2012,0.769,
+Venezuela,VEN,2013,0.771,
+Venezuela,VEN,2014,0.768,
+Venezuela,VEN,2015,0.766,
+Venezuela,VEN,2016,0.759,
+Venezuela,VEN,2017,0.75,
+Venezuela,VEN,2018,0.738,
+Venezuela,VEN,2019,0.72,
+Venezuela,VEN,2020,0.691,
+Venezuela,VEN,2021,0.69,
+Venezuela,VEN,2022,0.699,
+Vietnam,VNM,1997,0.571,Asia
+Vietnam,VNM,1998,0.58,Asia
+Vietnam,VNM,1999,0.589,Asia
+Vietnam,VNM,2000,0.599,Asia
+Vietnam,VNM,2001,0.609,Asia
+Vietnam,VNM,2002,0.619,Asia
+Vietnam,VNM,2003,0.628,Asia
+Vietnam,VNM,2004,0.637,Asia
+Vietnam,VNM,2005,0.645,Asia
+Vietnam,VNM,2006,0.653,Asia
+Vietnam,VNM,2007,0.66,Asia
+Vietnam,VNM,2008,0.665,Asia
+Vietnam,VNM,2009,0.671,Asia
+Vietnam,VNM,2010,0.676,Asia
+Vietnam,VNM,2011,0.681,Asia
+Vietnam,VNM,2012,0.684,Asia
+Vietnam,VNM,2013,0.689,Asia
+Vietnam,VNM,2014,0.693,Asia
+Vietnam,VNM,2015,0.697,Asia
+Vietnam,VNM,2016,0.702,Asia
+Vietnam,VNM,2017,0.706,Asia
+Vietnam,VNM,2018,0.711,Asia
+Vietnam,VNM,2019,0.717,Asia
+Vietnam,VNM,2020,0.726,Asia
+Vietnam,VNM,2021,0.718,Asia
+Vietnam,VNM,2022,0.726,Asia
